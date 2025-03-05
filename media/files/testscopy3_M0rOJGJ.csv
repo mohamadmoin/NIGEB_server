@@ -1,0 +1,1763 @@
+﻿test,Abbr,unit,normalrange,group
+Urinanalysis ,Urin.A,,aasdasdasdasd,urin
+Color ,u.Color,,aasdasdasdasd,urin
+Appearance ,u.Appear,,aasdasdasdasd,urin
+Sp.Gravity ,uSG,,aasdasdasdasd,urin
+Ph,u.pH,,aasdasdasdasd,urin
+Protein ,u.Pro,,aasdasdasdasd,urin
+Glucose ,u.Gluc,,aasdasdasdasd,urin
+Ketone,u.Keto,,aasdasdasdasd,urin
+Blood,u.Blood,,aasdasdasdasd,urin
+Nitrite ,u.Nitrite,,aasdasdasdasd,urin
+Bilirubin,u.Bili,,aasdasdasdasd,urin
+Urobilinogen ,u.Urobili,,aasdasdasdasd,urin
+R.B.C ,u-RBC,,aasdasdasdasd,urin
+W.B.C ,u-WBC,,aasdasdasdasd,urin
+Epithelial Cell ,u.Epit,,aasdasdasdasd,urin
+Bacteria ,u.Bact,,aasdasdasdasd,urin
+Crystals ,u.Crys,,aasdasdasdasd,urin
+Casts ,u.Casts,,aasdasdasdasd,urin
+Yeasts ,u.Yeast,,aasdasdasdasd,urin
+Mucus ,u.Mucus,,aasdasdasdasd,urin
+Others,,,aasdasdasdasd,urin
+Hemoglobin,Hb,,aasdasdasdasd,urin
+Starch,,,aasdasdasdasd,urin
+Sperm,Sperm,,aasdasdasdasd,urin
+Leukocyte,u.Luc,,aasdasdasdasd,urin
+Fat Droplets,Fat Dro,,aasdasdasdasd,urin
+RBC Dysmorphic,,,aasdasdasdasd,urin
+"Urin Sugar, ( Fasting )",U.sugar,,aasdasdasdasd,urin
+Chilo micron,,,aasdasdasdasd,urin
+Renal Cell,,,aasdasdasdasd,urin
+Clump WBC,,,aasdasdasdasd,urin
+Clump RBC,,,aasdasdasdasd,urin
+Transitional EP Cells,,,aasdasdasdasd,urin
+RBC Dysmorphic,,,aasdasdasdasd,urin
+Myoglobin,u. Myo,,aasdasdasdasd,urin
+Glandular Cell,,,aasdasdasdasd,urin
+Bence Jones Protein ,U.Bence jones,,aasdasdasdasd,urin
+Urinanalysis,Urin.A,,aasdasdasdasd,urin
+Urinanalysis,Urin.A,,aasdasdasdasd,urin
+Prostatic Specific Ag,PSA,ng/ml,aasdasdasdasd,urin
+Free PSA,s Free.PSA,ng/ml,aasdasdasdasd,urin
+Free PSA / Total PSA,,,aasdasdasdasd,urin
+AFP MOM,,,aasdasdasdasd,urin
+Hi Risk,,,aasdasdasdasd,urin
+HE4 ,s HE4,Pmol/L,aasdasdasdasd,urin
+Roma Index,s Roma,,aasdasdasdasd,urin
+Double Marker,Dabele Marker,,aasdasdasdasd,urin
+Tripel Marcer,Tripel Marker,,aasdasdasdasd,urin
+Quad Marcer,Coad Marker,,aasdasdasdasd,urin
+Free Beta,Free Beta,,aasdasdasdasd,urin
+PAPP-A,PAPP-A,,aasdasdasdasd,urin
+U E3,UE3,,aasdasdasdasd,urin
+Inhibin . A,s-Inhibin,pg/ml,aasdasdasdasd,urin
+A.F.P,A.F.P,,aasdasdasdasd,urin
+Beta HCG .Titer,Beta Titer,,aasdasdasdasd,urin
+Free Beta HCG,Free Beta,,aasdasdasdasd,urin
+feee cortisol 24,Free cortisol24,micg/24hrs,aasdasdasdasd,urin
+Sars covid 19 (IgG),Coid IgG,,aasdasdasdasd,urin
+Sars covid 19 (IgM),Coid IgM,,aasdasdasdasd,urin
+Food Allergens Test,Food Aler,,aasdasdasdasd,urin
+Anti Histon,s Histon,,aasdasdasdasd,urin
+Covid-19 Neutralization,Covid Neut,,aasdasdasdasd,urin
+Leptin,s Leptin,,aasdasdasdasd,urin
+Panel Reactive Ab (Fellow),s Panel,,aasdasdasdasd,urin
+Interleukin-6,s IL6,pg/ml,aasdasdasdasd,urin
+HLA B5,c HLA B5,,aasdasdasdasd,urin
+HLA B27,c HLA B27,,aasdasdasdasd,urin
+HLA B51,c HLA B51,,aasdasdasdasd,urin
+HLA B52,c HLA B52,,aasdasdasdasd,urin
+HLA B8,c HLA B8,,aasdasdasdasd,urin
+IGG4,s IGG4,,aasdasdasdasd,urin
+B2-Glycoprotein (IgA),B2IGA,,aasdasdasdasd,urin
+IL-6,il-6,pg/ml,aasdasdasdasd,urin
+P-ANCA,P-ANCA,AU/ml,aasdasdasdasd,urin
+C-ANCA,C-ANCA,AU/ml,aasdasdasdasd,urin
+galactommanan,,Index,aasdasdasdasd,urin
+Anti Acetylcholin Receptor,,,aasdasdasdasd,urin
+AMA,s AMA,Au/ml,aasdasdasdasd,imun
+Anti Smooth Muscle,s smooth,Titer,aasdasdasdasd,imun
+Anti ds DNA,DNA,IU/ml,aasdasdasdasd,imun
+Anti RNP,RNP,,aasdasdasdasd,imun
+ANCA,s ANCA,,aasdasdasdasd,imun
+Anti Cardiolipin (IgG) ,Cardio G,GPL/ml,aasdasdasdasd,imun
+Anti Cardiolipin (IgM),Cardio M,MPL-U/ml,aasdasdasdasd,imun
+ANA ,ANA ,C.O.I,aasdasdasdasd,imun
+FANA,FANA,,aasdasdasdasd,imun
+Geliadin (IgG),Gliadin G,,aasdasdasdasd,imun
+Geliadin (IgA) ,Gliadin A,,aasdasdasdasd,imun
+TTG (IgG)  ,Tissue IgG,AU/ml,aasdasdasdasd,imun
+TTG (IgA),Tissue IgA,U/ml,aasdasdasdasd,imun
+Anti Phospholipid (IgG) ,Phoso G,"AU/mL	",aasdasdasdasd,imun
+Anti Phospholipid (IgM) ,Phoso M,"Au/ml	",aasdasdasdasd,imun
+Endomesial  (IgG),Endomesi G,,aasdasdasdasd,imun
+Endomesial  (IgA),Endomesi A,,aasdasdasdasd,imun
+ANCA (C),ANCA(C),AU/ml,aasdasdasdasd,imun
+ANCA (P),ANCA(P),AU/ml,aasdasdasdasd,imun
+IgG (Serum),IgG,mg/dl,aasdasdasdasd,imun
+IgM (Serum),IgM,mg/dl,aasdasdasdasd,imun
+IgA (Serum) ,IgA,mg/dl,aasdasdasdasd,imun
+IgE (Serum) ,IgE,IU/ml,aasdasdasdasd,imun
+IgD (Serum),IgD,,aasdasdasdasd,imun
+Lopus Anti Coagulant  ,p Cit Lopus ,,aasdasdasdasd,imun
+Anti Listeria (IgG),Lister g,,aasdasdasdasd,imun
+Anti Listeria (Igm),Lister M,,aasdasdasdasd,imun
+Anti-TG,Anti-TG,,aasdasdasdasd,imun
+B2-Glycoprotein (IgG),s-b2-Glyco igg,AU/ml,aasdasdasdasd,imun
+B2-Glycoprotein (IgM),s B2 Glyco igm,AU/ml,aasdasdasdasd,imun
+Anti CCP,s Anti CCP,U/ml,aasdasdasdasd,imun
+Anti LKM Ab,s LKMA,Titer,aasdasdasdasd,imun
+Anti Ro (SSA),s Anti SSA,AU/ml,aasdasdasdasd,imun
+Anti LA (SSB),s Anti SSB,Au/ml,aasdasdasdasd,imun
+ASCA,s ASCA,,aasdasdasdasd,imun
+Anti-Liver Cytosol 1 ,s Anti LC-1,,aasdasdasdasd,imun
+Anti-Centromer,s Centrome,,aasdasdasdasd,imun
+Thyroglobulin,thyroglobulin,,aasdasdasdasd,imun
+Anti-Scl-70 ,s Scl-70,,aasdasdasdasd,imun
+GBM Ab,s Anti-GBM,,aasdasdasdasd,imun
+Immono Electerophoresis Serum,s Immono EP,,aasdasdasdasd,imun
+Immono Electerophoresis Urine,u24 h Immono EP,,aasdasdasdasd,imun
+Hpylori Ag Stool ,Stool HP,Index,aasdasdasdasd,imun
+Giardia Ag,Giar Ag,,aasdasdasdasd,imun
+Sudan Black,Sudan Black,,aasdasdasdasd,imun
+Calprotectin in Stool,Calprotectin,micg/g,aasdasdasdasd,imun
+Fecal Immonue ChemicalOB,Im Ch OB,,aasdasdasdasd,imun
+Anti-Jo-1,s Jo-1,,aasdasdasdasd,imun
+Anti Smith Ab ,s-Smith Ab ,,aasdasdasdasd,imun
+C1 Inhibitor,s-C1 Inhib,,aasdasdasdasd,imun
+Anti-Brucella (IgG),s-brucella G,Index,aasdasdasdasd,imun
+Anti-Brucella (IgM),s-brucella M,Index,aasdasdasdasd,imun
+C1q,C1q,,aasdasdasdasd,imun
+Neuro Myelitis Optica Ab.,s-NMO,,aasdasdasdasd,imun
+Hydatic Ab,s-Hydatic Ab,,aasdasdasdasd,imun
+M2 PK in Stool,Stool M2 PK,,aasdasdasdasd,imun
+Anti MOG Ab,MOG,,aasdasdasdasd,imun
+Sars covid 19 (IgG),Coid IgG,,aasdasdasdasd,imun
+Sars covid 19 (IgM),Coid IgM,,aasdasdasdasd,imun
+Food Allergens Test,Food Aler,,aasdasdasdasd,imun
+Anti Histon,s Histon,,aasdasdasdasd,imun
+Covid-19 Neutralization,Covid Neut,,aasdasdasdasd,imun
+Leptin,s Leptin,,aasdasdasdasd,imun
+Panel Reactive Ab (Fellow),s Panel,,aasdasdasdasd,imun
+Interleukin-6,s IL6,pg/ml,aasdasdasdasd,imun
+HLA B5,c HLA B5,,aasdasdasdasd,imun
+HLA B27,c HLA B27,,aasdasdasdasd,imun
+HLA B51,c HLA B51,,aasdasdasdasd,imun
+HLA B52,c HLA B52,,aasdasdasdasd,imun
+HLA B8,c HLA B8,,aasdasdasdasd,imun
+IGG4,s IGG4,,aasdasdasdasd,imun
+B2-Glycoprotein (IgA),B2IGA,,aasdasdasdasd,imun
+IL-6,il-6,pg/ml,aasdasdasdasd,imun
+P-ANCA,P-ANCA,AU/ml,aasdasdasdasd,imun
+C-ANCA,C-ANCA,AU/ml,aasdasdasdasd,imun
+galactommanan,,Index,aasdasdasdasd,imun
+Anti Acetylcholin Receptor,,,aasdasdasdasd,imun
+Fasting Blood Sugar (FBS),FBS,mg/dl,aasdasdasdasd,bioch
+Glucose 1hrs pp,1h  pp,,aasdasdasdasd,bioch
+Glucose 2hrs pp,2h  pp ,,aasdasdasdasd,bioch
+GCT Blood Sugar (1h) 50g,GCT 50g,,aasdasdasdasd,bioch
+GTT Blood Sugar (2hr) 75 g,GTT 75 gr 2h,,aasdasdasdasd,bioch
+ca,GTT 100 gr 2h,,aasdasdasdasd,bioch
+Glucose 2h after Lunch,Glu 2 lunch,,aasdasdasdasd,bioch
+Glucose 2 after Dinner,Glu 2 Diner,,aasdasdasdasd,bioch
+Glucose 5 PM ,BS 5 PM,,aasdasdasdasd,bioch
+Blood Urea,Urea,mg/dl,aasdasdasdasd,bioch
+BUN,BUN,,aasdasdasdasd,bioch
+Creatinine / Urine,Cr/U,,aasdasdasdasd,bioch
+Creatinine,Cr,mg/dl,aasdasdasdasd,bioch
+Uric Acid ,U.Acid,,aasdasdasdasd,bioch
+Cholesterol ,Chol,mg/dl,aasdasdasdasd,bioch
+Triglyceride ,TG,mg/dl,aasdasdasdasd,bioch
+HDL ,HDL,mg/dl,aasdasdasdasd,bioch
+LDL/HDL Ratio ,LDL/HDL,,aasdasdasdasd,bioch
+Cholesterol/HDL Ratio ,Chol/HDL,,aasdasdasdasd,bioch
+VLDL,VLDL,,aasdasdasdasd,bioch
+LDL,LDL,mg/dl,aasdasdasdasd,bioch
+Albumin Serum,Alb,,aasdasdasdasd,bioch
+Total Protein,Prot T,,aasdasdasdasd,bioch
+Globulin,Glob,,aasdasdasdasd,bioch
+Bilirubin (Total) ,T Bili,mg/dl,aasdasdasdasd,bioch
+Bilirubin (Direct),D Bili,mg/dl,aasdasdasdasd,bioch
+Bilirubin (Indirect)  ,Ind Bili,,aasdasdasdasd,bioch
+Blood Sugar ,B.S,,aasdasdasdasd,bioch
+SGOT (AST),SGOT,U/L,aasdasdasdasd,bioch
+SGPT (ALT) ,SGPT,,aasdasdasdasd,bioch
+Alkaline Phosphatase,AlkP,,aasdasdasdasd,bioch
+Acid Phosphatase (Total),s Acid Pho T,,aasdasdasdasd,bioch
+Acid Phosphatase (Prostatic) ,s Acid Pho P,,aasdasdasdasd,bioch
+Myoglobin,s Myoglobi,,aasdasdasdasd,bioch
+LDH,LDH,,aasdasdasdasd,bioch
+CPK,CPK,U/L,aasdasdasdasd,bioch
+Amylase,Amylase,,aasdasdasdasd,bioch
+Aldolase ,Aldolase,,aasdasdasdasd,bioch
+Lipase ,Lipase,,aasdasdasdasd,bioch
+Ca ,Ca,mg/dl,aasdasdasdasd,bioch
+P (Phosphorous),P,mg/dl,aasdasdasdasd,bioch
+Na (Sodium),Na,mEq/L,aasdasdasdasd,bioch
+K (Potassium),K,mEq/L,aasdasdasdasd,bioch
+Pb (Lead),c Pb,micg/dl,aasdasdasdasd,bioch
+Fe (Iron),Fe,micgr/dl,aasdasdasdasd,bioch
+TIBC,TIBC,,aasdasdasdasd,bioch
+Per-Albumin,Per-Alb,,aasdasdasdasd,bioch
+G.6.P.D,c G6PD,,aasdasdasdasd,bioch
+Homocysteine ,sHomocysteine,micmol/l,aasdasdasdasd,bioch
+Gamma-Glutamyl Transf ,sGGT,"U/L	",aasdasdasdasd,bioch
+Li (Lithium),sLit,mEq/L,aasdasdasdasd,bioch
+Hb A1c,HbA1c,%,aasdasdasdasd,bioch
+eAG,eAG,,aasdasdasdasd,bioch
+Folic Acid ,s Folic Acid,ng/ml,aasdasdasdasd,bioch
+C-peptide,C-pep,ng/ml,aasdasdasdasd,bioch
+Insulin,Insulin,micIU/ml,aasdasdasdasd,bioch
+Mg,s Mg,mg/dl,aasdasdasdasd,bioch
+Mg ,Mg,,aasdasdasdasd,bioch
+Zinc,s ZN,,aasdasdasdasd,bioch
+Copper,s Copper,ug/dl,aasdasdasdasd,bioch
+Ceruloplasmin ,sCeruloplas,,aasdasdasdasd,bioch
+CPK MB,s CPK MB,,aasdasdasdasd,bioch
+GTT Tolerance Test (75 g),GTT 75g,,aasdasdasdasd,bioch
+GTT Blood Sugar (Fasting),GTT BF,,aasdasdasdasd,bioch
+GTT Blood Sugar (1 hr),GTT B (1hr),,aasdasdasdasd,bioch
+GTT Blood Sugar (2 hr ),GTT B (2hr),,aasdasdasdasd,bioch
+GTT Tolerance Test Pragnant (100 g),GTT Preg 100 g,,aasdasdasdasd,bioch
+GTT Blood Sugar (Fasting),GTT BF,,aasdasdasdasd,bioch
+GTT Blood Sugar (1 hr),GTT B (1 hr),,aasdasdasdasd,bioch
+GTT Blood Sugar (2 hr),GTT B (2 hr),,aasdasdasdasd,bioch
+GTT Blood Sugar (3 hr),GTT B (3 hr),,aasdasdasdasd,bioch
+F,s Apo-A,,aasdasdasdasd,bioch
+Apolipoprotein-A,s Apo-A,,aasdasdasdasd,bioch
+Transferine,sTransfer,mg/dl,aasdasdasdasd,bioch
+Transferine Saturation,s Trans Satu,,aasdasdasdasd,bioch
+Apolipoprotein-B,s Apo-B,,aasdasdasdasd,bioch
+Apolipoprotein-B,s Apo-B,,aasdasdasdasd,bioch
+Cl (Chloride),s Cl,mmol/L,aasdasdasdasd,bioch
+Troponin I,s Troponin I,ng/ml,aasdasdasdasd,bioch
+Haptoglobin,s Haptoglobin,,aasdasdasdasd,bioch
+Serum Protein Electrophoresis  ,s Protein EP,,aasdasdasdasd,bioch
+Albumin,Albumin,,aasdasdasdasd,bioch
+Alpha 1,A1 Glob,,aasdasdasdasd,bioch
+Alpha 2,A2 Glob,,aasdasdasdasd,bioch
+Beta 1,Beta Glob,,aasdasdasdasd,bioch
+Beta 2 ,Beta Glob,,aasdasdasdasd,bioch
+Gamma ,Gamma Glob,,aasdasdasdasd,bioch
+Vitamin B12 ,B12,pg/ml,aasdasdasdasd,bioch
+Digoxin ,s Digoxin,,aasdasdasdasd,bioch
+Ammoniac,s Ammon,µg/dL,aasdasdasdasd,bioch
+Lactate,p edta Lact,mg/dl,aasdasdasdasd,bioch
+Glucose PM,,,aasdasdasdasd,bioch
+GFR,GFR,,aasdasdasdasd,bioch
+Cyclosporine ,c Cyclospo,,aasdasdasdasd,bioch
+Phenylalanine-Plasma ,P edta Pheny,,aasdasdasdasd,bioch
+Serotonin,sSeroto,,aasdasdasdasd,bioch
+Serum Amino Acid,s Amino Acid,,aasdasdasdasd,bioch
+Valproate Sodium,s Na Val,,aasdasdasdasd,bioch
+Carbamazepin,s Carmapa,,aasdasdasdasd,bioch
+Gabapentin,s Gaba,,aasdasdasdasd,bioch
+Phenobarbital,s Phenobar,micg/ml,aasdasdasdasd,bioch
+Lamotrigine,s Lamo,,aasdasdasdasd,bioch
+Levetiracetam,s Leveti,,aasdasdasdasd,bioch
+Phenytoin  ,s Phenytoin,micg/ml,aasdasdasdasd,bioch
+Topiramate,s Topiramate,,aasdasdasdasd,bioch
+Metanephrines Plasma,P Edta Metaneph,,aasdasdasdasd,bioch
+Nor Metanephrines Plasma,P Edta normeta,,aasdasdasdasd,bioch
+Vitamin E,Vit E,,aasdasdasdasd,bioch
+Vitamin A,Vit A,,aasdasdasdasd,bioch
+Vitamin C,Vit C,,aasdasdasdasd,bioch
+Vitamin B6,Vit B6,,aasdasdasdasd,bioch
+VBG,VBG,,aasdasdasdasd,bioch
+PH,,,aasdasdasdasd,bioch
+PCO2,,,aasdasdasdasd,bioch
+po2,,,aasdasdasdasd,bioch
+HCO3,,,aasdasdasdasd,bioch
+BEecf,,,aasdasdasdasd,bioch
+BE,,,aasdasdasdasd,bioch
+O2sat,,,aasdasdasdasd,bioch
+Ionized Calcium(Ca++),s Cal Ionized,,aasdasdasdasd,bioch
+HOMA IR,,,aasdasdasdasd,bioch
+BS 6 AM,bs 6 am,,aasdasdasdasd,bioch
+BS 8 AM,bs 8 am,,aasdasdasdasd,bioch
+BS 11 AM,bs 11 am,,aasdasdasdasd,bioch
+BS 4 PM,bs 4 pm,,aasdasdasdasd,bioch
+BS 6 PM,bs 6 pm,,aasdasdasdasd,bioch
+BS 8 PM,bs 8 pm,,aasdasdasdasd,bioch
+BS 9 PM,bs 9 pm,,aasdasdasdasd,bioch
+BS 12 PM,bs 12 pm,,aasdasdasdasd,bioch
+BUN,,,aasdasdasdasd,bioch
+Ferritin,Fe,micgr/L,aasdasdasdasd,bioch
+NT-PRO-BNP,NT-Pro-BNP,pg/ml,aasdasdasdasd,bioch
+Pyrovate,pyrovate,mg/dL,aasdasdasdasd,bioch
+Lipoprotein a,LPa,,aasdasdasdasd,bioch
+HDL Cholesterol,Chol-HDL,mg/dl,aasdasdasdasd,bioch
+LDL Cholesterol,Chol-LDL,mg/dl,aasdasdasdasd,bioch
+ADA,Adenosindeamina,IU/L,aasdasdasdasd,bioch
+Blood Amino Acids(HPLC),B.A.A.(HPLC),,aasdasdasdasd,bioch
+Urine Sugar chromatography,Urine (HPLC),-,aasdasdasdasd,bioch
+Urine Volume (24h) ,24uVolume,,aasdasdasdasd,bioch
+Urine Volume(12h) ,12uVolume,,aasdasdasdasd,bioch
+Urine MicroAlbumin(24h),24uMicroAlb,,aasdasdasdasd,bioch
+Urine MicroAlbumin(12h),12uMic,,aasdasdasdasd,bioch
+Urine Creatinine (12h),12u Creat,,aasdasdasdasd,bioch
+Urine Creatinine (24h),24u Crea,,aasdasdasdasd,bioch
+Urine Urea (24h),24u Urea,,aasdasdasdasd,bioch
+Urine Urobilinogen (24h),24u Urobi,,aasdasdasdasd,bioch
+Urine Protein (24h),24u Prot,,aasdasdasdasd,bioch
+Urine Protein (12h),12u Prot,,aasdasdasdasd,bioch
+Urine Uric Acid (24h),24uUricAc,,aasdasdasdasd,bioch
+Urine Amylase (24h) ,24uAmylase,,aasdasdasdasd,bioch
+Urine Calcium (24h),24uCa,,aasdasdasdasd,bioch
+Urine Phosphorus (24h) ,24u-Phos,,aasdasdasdasd,bioch
+Urine Potassium (24h),24uK,,aasdasdasdasd,bioch
+Urine Sodium (24h),24uNa,,aasdasdasdasd,bioch
+Urine Chloride (24h),24u Cl,,aasdasdasdasd,bioch
+17- Ketosteroids (24h) ,24u17KETO,,aasdasdasdasd,bioch
+17-OH Steroids (24h) ,24u17OH.S,,aasdasdasdasd,bioch
+Urine VMA (24h),24uVMA,,aasdasdasdasd,bioch
+Urine 5OH Indole Acetic Acid (24h),24u5HIAA,,aasdasdasdasd,bioch
+Urine Oxalate (24h),24u-Oxalate,,aasdasdasdasd,bioch
+Urine Cystine (24h),24u-Cystin,,aasdasdasdasd,bioch
+Urine Normetanephrine(24h),24u-Normeta,,aasdasdasdasd,bioch
+Urine Metanephrine (24h),24u MetNep,,aasdasdasdasd,bioch
+Urine Citrate (24h),24uCitrat ,,aasdasdasdasd,bioch
+Urine Catecolamin (24h),catecola 24 h,,aasdasdasdasd,bioch
+Urine Magnesium (24h),24u Mg,,aasdasdasdasd,bioch
+Urine Specific Gravity (24h),24uSG,,aasdasdasdasd,bioch
+Urine Sugar (24h),24u Sugar,,aasdasdasdasd,bioch
+Urine Copper (24h),24u Copper ,,aasdasdasdasd,bioch
+Urine Ceruloplasmin (24h),24u Cerulopla,,aasdasdasdasd,bioch
+Urine PH (24h),24u PH ,,aasdasdasdasd,bioch
+Urine Blood (24h),24u Blood,,aasdasdasdasd,bioch
+Urine Nitrit (24h),24u nitrit,,aasdasdasdasd,bioch
+Urine Epinephrine (24h),24h Epineph,,aasdasdasdasd,bioch
+Urine Nor Epinephrine (24h),24 h Nor epine,,aasdasdasdasd,bioch
+Urine Adrenalin (24h),24 h Adre,,aasdasdasdasd,bioch
+Urine Nor Adrenalin (24h),24 h noradr,,aasdasdasdasd,bioch
+Random Urine Chloride,R.U.Cl,,aasdasdasdasd,bioch
+Random Urine Calcium,R.U.Ca,,aasdasdasdasd,bioch
+Random Urine Oxlate,R.U.Ox ,,aasdasdasdasd,bioch
+Random Urine Phosphorus,R.U.Phos,,aasdasdasdasd,bioch
+Random Urine Urea,R.U.Urea,,aasdasdasdasd,bioch
+Random Urine Copper,R.U.Copper,,aasdasdasdasd,bioch
+Random Urine Creatinin,R.U.Crea,,aasdasdasdasd,bioch
+Random Urine Sodium,R.U.Na,,aasdasdasdasd,bioch
+Random Urine Potasium,R.U.K,,aasdasdasdasd,bioch
+Random Urine Uric Acid,R.U.U.Acid,,aasdasdasdasd,bioch
+Random Urine Amylase,R.U.Amylase,,aasdasdasdasd,bioch
+Random Urine Citrate,R.U.Citrat,,aasdasdasdasd,bioch
+Random Urine Cystine,R.U. Cystine,,aasdasdasdasd,bioch
+Random Urine Protein,R.U. Prot,,aasdasdasdasd,bioch
+Random Urine Magnesium,R.U.Mg,,aasdasdasdasd,bioch
+Random Urine Homocystein ,R.U.Homocys,,aasdasdasdasd,bioch
+Random Myoglobin,u Myoglo,,aasdasdasdasd,bioch
+Urine Microalbumin,R.U. MicroAlb,mg/L,aasdasdasdasd,bioch
+ACR,ACR,,aasdasdasdasd,bioch
+Calculi Analysis,Cal-Analys,,aasdasdasdasd,bioch
+Source of Calculi ,,,aasdasdasdasd,bioch
+Pieces  of Calculi ,,,aasdasdasdasd,bioch
+Weight ,,,aasdasdasdasd,bioch
+Size ,,,aasdasdasdasd,bioch
+Shape ,,,aasdasdasdasd,bioch
+Color,,,aasdasdasdasd,bioch
+Surface Appearance ,,,aasdasdasdasd,bioch
+Consistency ,,,aasdasdasdasd,bioch
+Chemical Analysis ,,,aasdasdasdasd,bioch
+Calcium :,,,aasdasdasdasd,bioch
+Oxalate :,,,aasdasdasdasd,bioch
+Ammoniom :,,,aasdasdasdasd,bioch
+Uric Acid :,,,aasdasdasdasd,bioch
+Phosphate :,,,aasdasdasdasd,bioch
+Magnesium :,,,aasdasdasdasd,bioch
+Cystine :,,,aasdasdasdasd,bioch
+CO2:,,,aasdasdasdasd,bioch
+TLC-For Amino Acid & Suger Urine,TLCادرار صبحگاه,,aasdasdasdasd,bioch
+"Nitroproside , Urine",Nitropro,,aasdasdasdasd,bioch
+Protein Electrophoresis Urine,24 u Pro EP,,aasdasdasdasd,bioch
+Beta2-Microglobulin,,,aasdasdasdasd,bioch
+Hemoglobin,,,aasdasdasdasd,bioch
+Free Light Chains,,,aasdasdasdasd,bioch
+Alpha 1-Microglobulin,,,aasdasdasdasd,bioch
+Free Light Chains Dimers,,,aasdasdasdasd,bioch
+Albumin,,,aasdasdasdasd,bioch
+Transferrin,,,aasdasdasdasd,bioch
+Tammhorsfall,,,aasdasdasdasd,bioch
+IgG/IgA,,,aasdasdasdasd,bioch
+IgM/Alpha2-Mac.,,,aasdasdasdasd,bioch
+N-Acetil Glucose Amin Urine,R.U. NAG,,aasdasdasdasd,bioch
+NGAL,R.U.NGAL,,aasdasdasdasd,bioch
+Urine Amino Acid,R.U. Amino acid,,aasdasdasdasd,bioch
+Phenyl alanine Urine,Phenyl U,,aasdasdasdasd,bioch
+Reducing Substances ,u-Reducing,Qual,aasdasdasdasd,bioch
+PKU,u PKU,,aasdasdasdasd,bioch
+CSF- Glucose ,csf-Glucos,,aasdasdasdasd,bioch
+CSF-Protein,csf-Protei,,aasdasdasdasd,bioch
+CSF-GammaGlobulins,csf-GammaG,,aasdasdasdasd,bioch
+CSF-Albumin ,csf-Albumi,,aasdasdasdasd,bioch
+CSF-A/G Ratio,csf-A/G,,aasdasdasdasd,bioch
+CSF-Na,csf-Na,,aasdasdasdasd,bioch
+CSF-K ,csf-K,,aasdasdasdasd,bioch
+CSF-Chloride,csf-Cl,,aasdasdasdasd,bioch
+CSF-LDH ,csf-LDH,,aasdasdasdasd,bioch
+CSF-CPK ,csf-CPK,,aasdasdasdasd,bioch
+CSF-Osmolality ,csf-Osmola,,aasdasdasdasd,bioch
+Synovial Glucose,syn-Glucos,,aasdasdasdasd,bioch
+Synovial Protein  ,syn-Protei,,aasdasdasdasd,bioch
+Synovial Albumin ,syn-Albumi,,aasdasdasdasd,bioch
+Synovial LDH ,syn-LDH,,aasdasdasdasd,bioch
+Synovial Na ,syn-Na,,aasdasdasdasd,bioch
+Synovial K,syn-K,,aasdasdasdasd,bioch
+Synovial Chloride ,syn-Cl,,aasdasdasdasd,bioch
+Synovial Osmolality ,syn-Osmolali,,aasdasdasdasd,bioch
+Pleural-Glucose ,ple-Glucos,,aasdasdasdasd,bioch
+Pleural-Protein ,ple-Protei,,aasdasdasdasd,bioch
+Pleural-Albumin ,ple-Albumi,,aasdasdasdasd,bioch
+Pleural-LDH,ple-LDH,,aasdasdasdasd,bioch
+Pleural-Na ,ple-Na,,aasdasdasdasd,bioch
+Pleural-K,ple-K,,aasdasdasdasd,bioch
+Pleural-Chloride ,ple-Cl,,aasdasdasdasd,bioch
+Pleural-Osmolality ,ple-Osmolal,,aasdasdasdasd,bioch
+Pericardial-Glucose ,per-Glucos,,aasdasdasdasd,bioch
+Pericardial-Protein ,per-Protei,,aasdasdasdasd,bioch
+Perciardial-Albumin ,per-Albumin,,aasdasdasdasd,bioch
+Pericardial-LDH ,per-LDH,,aasdasdasdasd,bioch
+Pericardial-Na,per-Na,,aasdasdasdasd,bioch
+Pericardial-K,per-K,,aasdasdasdasd,bioch
+Pericardial-Chloride,per-Cl,,aasdasdasdasd,bioch
+Pericardial-Osmolality,per-Osmola,,aasdasdasdasd,bioch
+Ascitic-Glucose,ascit-Glucos,,aasdasdasdasd,bioch
+Ascitic-Protein ,ascit-Protei,,aasdasdasdasd,bioch
+Ascitic-Albumin,ascit-Albumi,,aasdasdasdasd,bioch
+Ascitic-LDH,ascit-LDH,,aasdasdasdasd,bioch
+Ascitic-Na,ascit-Na,,aasdasdasdasd,bioch
+Ascitic-K ,ascit-K,,aasdasdasdasd,bioch
+Ascitic-Chloride,ascit-Cl,,aasdasdasdasd,bioch
+Asitic-Osmolality ,ascit-Osmola,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(NSE),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(P16),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(P53),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(P63),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(Pan CK(AE1/AE3)),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(PAX-5),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(PAX-8),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(PC),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(PDL1),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(Placental alkaline phosphatase),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(PMS2),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(PR-Progestrone Receptor),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(PSA),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(Racemase),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(S100),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(Smooth Muscle Actin SMA),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(TdT),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(Thyroglobulin),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(TTF-1),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(Vimentin),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(WT1),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(CD31),,,aasdasdasdasd,bioch
+IHC-SERIAL,,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي(D2-40),,,aasdasdasdasd,bioch
+ايمونوهيستوشيمي آنتي بادي,,,aasdasdasdasd,bioch
+Pathology 1,,,aasdasdasdasd,patho
+Pathology 2,,,aasdasdasdasd,patho
+جفت . به جز سه ماهه سوم(سطح 3),,,aasdasdasdasd,patho
+Pathology 4,,,aasdasdasdasd,patho
+وولوا.رزکسيون توتال/ساب توتال(سطح6),,,aasdasdasdasd,patho
+مشاوره و گزارش مواردي كه نياز به تهيه لام دارند,,,aasdasdasdasd,patho
+مشاوره و گزارش لام تهيه شده در جاي ديگر,,,aasdasdasdasd,patho
+"رنگ‌آميزي اختصاصي، گروه 2 رنگ آميزي‌هاي ديگر ",,,aasdasdasdasd,patho
+عمل دي كلسيفيكاسيون ,,,aasdasdasdasd,patho
+آسپيراسيون مغز استخوان ,,,aasdasdasdasd,patho
+بررسي ميکروسکوپي نمونه هاي بيوپسي,,,aasdasdasdasd,patho
+NIPPLE CYTOLOGY,,,aasdasdasdasd,patho
+Fluid sample ,,,aasdasdasdasd,patho
+Liquid Based Cytology ,,,aasdasdasdasd,patho
+FNA CYTOLOGY Thyroid,,,aasdasdasdasd,patho
+Urine Cytology,,,aasdasdasdasd,patho
+FROZEN,,,aasdasdasdasd,patho
+ايمونوهيستوشيمي آنتي بادي-پستان,,,aasdasdasdasd,patho
+Pap Smear,Pap.s,,aasdasdasdasd,patho
+ايمونوهيستوشيمي آنتي بادي-پستان,,,aasdasdasdasd,patho
+پستان.بيوپسي(سطح 4),,,aasdasdasdasd,patho
+پستان.ماموپلاستي(سطح 4),,,aasdasdasdasd,patho
+برونش.بيوپسي(سطح 4),,,aasdasdasdasd,patho
+سرويکس .بيوپسي(سطح 4),,,aasdasdasdasd,patho
+کولون .بيوپسي(سطح 4),,,aasdasdasdasd,patho
+دئودونوم.بيوپسي(سطح 4),,,aasdasdasdasd,patho
+آندوسرويکس .کورتاژ/بيوپسي(سطح 4),,,aasdasdasdasd,patho
+آندومتر.کورتاژ/بيوپسي(سطح 4),,,aasdasdasdasd,patho
+مري .بيوپسي(سطح 4),,,aasdasdasdasd,patho
+لوله فالوپ . حاملگي نابجاويا تشخيصي(سطح 4),,,aasdasdasdasd,patho
+سرفمور .شکستگي (سطح 4),,,aasdasdasdasd,patho
+انگشتان دست /پا آمپوتاسيون.غيرتروماتيک(سطح 4),,,aasdasdasdasd,patho
+لثه /مخاط دهان .بيوپسي(سطح 4),,,aasdasdasdasd,patho
+دريچه قلب(سطح 4),,,aasdasdasdasd,patho
+مفصل /رزکسيون(سطح 4),,,aasdasdasdasd,patho
+حنجره .بيوپسي(سطح 4),,,aasdasdasdasd,patho
+لب .رزکسيون گوه اي(وج(سطح 4),,,aasdasdasdasd,patho
+ريه .بيوپسي ترانس برونشيال(سطح 4),,,aasdasdasdasd,patho
+مخاط بيني .بيوپسي(سطح 4),,,aasdasdasdasd,patho
+نازوفارکس/اوروفارنکس.بيوپسي(سطح 4),,,aasdasdasdasd,patho
+ادنتوژنتيک /دنتال سيست(سطح 4),,,aasdasdasdasd,patho
+امنتوم (چادرينه ).بيوپسي(سطح 4),,,aasdasdasdasd,patho
+تخمدان همراه يا بدون لوله.غيرنئوپلاستيک(سطح 4),,,aasdasdasdasd,patho
+ تخمدان .بيوپسي /رزکسيون گوه اي (سطح 4),,,aasdasdasdasd,patho
+غده پاراتيروئيد(سطح 4),,,aasdasdasdasd,patho
+پريتوان (صفاق )بيوپسي(سطح 4),,,aasdasdasdasd,patho
+تومورهيپوفيز(سطح 4),,,aasdasdasdasd,patho
+پلور /پريکارد-بيوپسي /بافت(سطح 4),,,aasdasdasdasd,patho
+پوليپ. سرويکال /آندومتريال(سطح 4),,,aasdasdasdasd,patho
+پوليپ معده /روده کوچک(سطح 4),,,aasdasdasdasd,patho
+پروستات. بيوپسي سوزني(سطح 4),,,aasdasdasdasd,patho
+پروستات . تي يوآر(سطح 4),,,aasdasdasdasd,patho
+غده بزاقي  بيوپسي(سطح 4),,,aasdasdasdasd,patho
+سينوس.پارانازال بيوپسي (سطح 4),,,aasdasdasdasd,patho
+روده کوچک /بيوپسي (سطح 4),,,aasdasdasdasd,patho
+بافت نرم بجزتومور/توده /ليپوم/دبريدمان(سطح 4),,,aasdasdasdasd,patho
+طحال(سطح 4),,,aasdasdasdasd,patho
+معده .بيوپسي(سطح 4),,,aasdasdasdasd,patho
+سينوويوم(سطح 4),,,aasdasdasdasd,patho
+بيضه بجزتومور/بيوپسي /اخته کردن(سطح 4),,,aasdasdasdasd,patho
+مجراي تيروگلوس/کيست شکاف برانکيال(سطح 4),,,aasdasdasdasd,patho
+زبان.بيوپسي(سطح 4),,,aasdasdasdasd,patho
+لوزه .بيوپسي(سطح 4),,,aasdasdasdasd,patho
+ناي .تراشه.بيوپسي(سطح 4),,,aasdasdasdasd,patho
+حالب .بيوپسي(سطح 4),,,aasdasdasdasd,patho
+اورترا(مجراي ادرار).بيوپسي(سطح 4),,,aasdasdasdasd,patho
+مثانه.بيوپسي(سطح 4),,,aasdasdasdasd,patho
+واژن .بيوپسي(سطح 4),,,aasdasdasdasd,patho
+وولوا/لابيا .بيوپسي(سطح 4),,,aasdasdasdasd,patho
+چشم . انوکليشن(سطح 4),,,aasdasdasdasd,patho
+( ريه .بيوپسي گوه اي (وج(سطح 4),,,aasdasdasdasd,patho
+ميوکارد.بيوپسي (سطح 4),,,aasdasdasdasd,patho
+تومورادونتوژنيک(سطح 4),,,aasdasdasdasd,patho
+تخمدان با يا بدون لوله.نئوپلاستيک(سطح 4),,,aasdasdasdasd,patho
+پانکراس بيوپسي (سطح 4),,,aasdasdasdasd,patho
+جفت سه ماهه سوم(سطح 4),,,aasdasdasdasd,patho
+پروستات. به جزرزکسيون راديکال (سطح 4),,,aasdasdasdasd,patho
+غده بزاقي (سطح 4),,,aasdasdasdasd,patho
+روده کوچک رزکسيون بجز تومور(سطح 4),,,aasdasdasdasd,patho
+توده بافت نرم(سطح 4),,,aasdasdasdasd,patho
+تيروئيد.توتال /لوب(سطح 4),,,aasdasdasdasd,patho
+حالب .رزکسيون(سطح 4),,,aasdasdasdasd,patho
+مثانه .تي يو آر(سطح 4),,,aasdasdasdasd,patho
+لوله فالوپ .عقيم سازي (سطح 2),,,aasdasdasdasd,patho
+انگشتان دست /پا.آمپوتاسيون.تروماتيک(سطح 2),,,aasdasdasdasd,patho
+فوراکسين( پره پونس ).نوزاد(سطح 2),,,aasdasdasdasd,patho
+سلم فتق.درمحل(سطح 2),,,aasdasdasdasd,patho
+ساک هيدروسل(سطح 2),,,aasdasdasdasd,patho
+پوست .ترميم پلاستيک(سطح 2),,,aasdasdasdasd,patho
+گانگليون سمپاتيک(سطح 2),,,aasdasdasdasd,patho
+بيضه ها.اخته کردن( کاستراسيون(سطح 2),,,aasdasdasdasd,patho
+مخاط واژن.تصادف(سطح 2),,,aasdasdasdasd,patho
+وازدفران .عقيم سازي (سطح 2),,,aasdasdasdasd,patho
+Pathology 3,,,aasdasdasdasd,patho
+سقط القايي(سطح 3),,,aasdasdasdasd,patho
+آبسه(سطح 3),,,aasdasdasdasd,patho
+آنوريسم -شرياني /بطني (سطح 3),,,aasdasdasdasd,patho
+تگ( زائده )آنوس (مقعد(سطح 3),,,aasdasdasdasd,patho
+آپانديس(سطح 3),,,aasdasdasdasd,patho
+شريان .پلاک آتروماتوس(سطح 3),,,aasdasdasdasd,patho
+کيست غددبارتولن(سطح 3),,,aasdasdasdasd,patho
+بورسا.کيست(سطح 3),,,aasdasdasdasd,patho
+بافت کارپال تانل(سطح 3),,,aasdasdasdasd,patho
+غضروف .تراشيدن(سطح 3),,,aasdasdasdasd,patho
+کلسته آتوما(سطح 3),,,aasdasdasdasd,patho
+ملتحمه .بيوپسي(سطح 3),,,aasdasdasdasd,patho
+قرنيه(سطح 3),,,aasdasdasdasd,patho
+بافت کانترکچردوپوئيترين(سطح 3),,,aasdasdasdasd,patho
+سرفمور.بجزشکستگي(سطح 3),,,aasdasdasdasd,patho
+شقاق (فيستور)/فيستول(سطح 3),,,aasdasdasdasd,patho
+فورسکين( پره پوس).بجز نوزاد(سطح 3),,,aasdasdasdasd,patho
+کيسه صفرا(سطح 3),,,aasdasdasdasd,patho
+گانکليون کيست(سطح 3),,,aasdasdasdasd,patho
+هماتوم(سطح 3),,,aasdasdasdasd,patho
+هموروئيد(سطح 3),,,aasdasdasdasd,patho
+هيداتيدمورگاگني(سطح 3),,,aasdasdasdasd,patho
+ديسک بين مهره اي (سطح 3),,,aasdasdasdasd,patho
+مفصل . لوزبادي (سطح 3),,,aasdasdasdasd,patho
+نوروما-مورتون/تروماتيک(سطح 3),,,aasdasdasdasd,patho
+سينوس/کيست پايلونيدال(سطح 3),,,aasdasdasdasd,patho
+پوليپ .التهابي -بيني /سينوس(سطح 3),,,aasdasdasdasd,patho
+بافت نرم .دبريدمان(سطح 3),,,aasdasdasdasd,patho
+اسپرماتوسل(سطح 3),,,aasdasdasdasd,patho
+تاندون/تاندون شيت (غلاف(سطح 3),,,aasdasdasdasd,patho
+زائده بيضه(سطح 3),,,aasdasdasdasd,patho
+ترومبوس يا آمبولي(سطح 3),,,aasdasdasdasd,patho
+لوزه و/ياآدنوئيد(سطح 3),,,aasdasdasdasd,patho
+واريکوسل(سطح 3),,,aasdasdasdasd,patho
+وازدفران.بجزعقيمي (سطح 3),,,aasdasdasdasd,patho
+وريد.وارکوزيتي (سطح 3),,,aasdasdasdasd,patho
+سقط--خودبخود/فراموش شده(سطح 3),,,aasdasdasdasd,patho
+شريان .بيوپسي(سطح 3),,,aasdasdasdasd,patho
+اگزوستوزاستخوان(سطح 3),,,aasdasdasdasd,patho
+انتهاها.آمپوتاسيون.ترماتيک(سطح 3),,,aasdasdasdasd,patho
+ليوميوم.ميومکتومي رحمي -بدون رحم(سطح 3),,,aasdasdasdasd,patho
+کليه .بيوپسي (سطح5),,,aasdasdasdasd,patho
+لنف نود.بيوپسي (سطح5),,,aasdasdasdasd,patho
+عضله . بيوپسي (سطح6),,,aasdasdasdasd,patho
+عصب. بيوپسي تشخيص مديکال(سطح6),,,aasdasdasdasd,patho
+پوست(سطح5),,,aasdasdasdasd,patho
+استخوان .بيوپسي ياکورتاژ(سطح5),,,aasdasdasdasd,patho
+مغز.بيوپسي(سطح5),,,aasdasdasdasd,patho
+مغز/مننژ.رزکسيون تومور(سطح5),,,aasdasdasdasd,patho
+پستان .ماستکتومي -پارشيال/ساده(سطح5),,,aasdasdasdasd,patho
+سرويکس .کونيزاسيون( برداشتن مخاطي(سطح5),,,aasdasdasdasd,patho
+انتهاها.آمپوتاسيون .غيرتروماتيک(سطح5),,,aasdasdasdasd,patho
+کبد.بيوپسي -سوزني /گوه اي (وج(سطح5),,,aasdasdasdasd,patho
+مدياستن.توده اي (سطح5),,,aasdasdasdasd,patho
+Pathology 5,,,aasdasdasdasd,patho
+آدرنال.رزکسيون(سطح6),,,aasdasdasdasd,patho
+رحم .يابدون لوله هاوتخمدانها(سطح6),,,aasdasdasdasd,patho
+کليه .نفرکتومي توتال /پارشيال(سطح6),,,aasdasdasdasd,patho
+حنجره .پارشيال/توتال رزکسيون(سطح6),,,aasdasdasdasd,patho
+کبد.رزکسيون پارشيال(سطح6),,,aasdasdasdasd,patho
+لنف نود.رزکسيونرژيونال(سطح6),,,aasdasdasdasd,patho
+معده .ساب توتال/توتال رزکسيون بجزبراي تومور(سطح6),,,aasdasdasdasd,patho
+رزکسيون اسنخوان(سطح6),,,aasdasdasdasd,patho
+پستان .ماستکتومي.به همراه عقده هاي لنفاوي ناحيه(سط,,,aasdasdasdasd,patho
+کولون.رزکسيون.سگمنتال به علت تومور(سطح6),,,aasdasdasdasd,patho
+کولون.رزکسيون(سطح6),,,aasdasdasdasd,patho
+مري .رزکسيون پارشيال/توتال(سطح6),,,aasdasdasdasd,patho
+اندامها.ديس آرتيکولاسيون(سطح6),,,aasdasdasdasd,patho
+جنين .باديسکسيون(سطح6),,,aasdasdasdasd,patho
+حلق.رزکسيون پارشيال/توتال به همراه عقده هاي لنفاوي,,,aasdasdasdasd,patho
+ريه .رزکسيون توتال /لوب/سگمنت(سطح6),,,aasdasdasdasd,patho
+پانکراس.رزکسيون توتال/ساب توتال(سطح6),,,aasdasdasdasd,patho
+پروستات.رزکسيون راديکال(سطح6),,,aasdasdasdasd,patho
+روده باريک .رزکسيون يه علت تومور(سطح6),,,aasdasdasdasd,patho
+تومور بافت نرم .رزکسيون به علت تومور (سطح6),,,aasdasdasdasd,patho
+معده .رزکسيون ساب توتال به علت تومور(سطح6),,,aasdasdasdasd,patho
+بيضه.تومور (سطح6),,,aasdasdasdasd,patho
+زبان /لوزه-رزکسيون به علت تومور (سطح6),,,aasdasdasdasd,patho
+مثانه .رزکسيون پارشيال/توتال(سطح6),,,aasdasdasdasd,patho
+رحم .همراه يابدون لوله وتخمدانها.نئوپلاستيک(سطح6),,,aasdasdasdasd,patho
+Sputum Cytology,,,aasdasdasdasd,patho
+Sputum Cytologyx2,,,aasdasdasdasd,patho
+Sputum Cytologyx3,,,aasdasdasdasd,patho
+Urine Cytology x4,,,aasdasdasdasd,patho
+Urine Cytology x5,,,aasdasdasdasd,patho
+"رنگ آميزي اختصاصي ، گروه يك",,,aasdasdasdasd,patho
+"رنگ آميزي اختصاصي ، گروه دو",,,aasdasdasdasd,patho
+CISH,,,aasdasdasdasd,patho
+CANCEL (CISH),,,aasdasdasdasd,patho
+KAZEB(CISH),,,aasdasdasdasd,patho
+Pap Smear MI,Calcitonin,,aasdasdasdasd,patho
+واريکوسل(سطح 2),,,aasdasdasdasd,patho
+"وازدفران،به جز عقيمي(سطح 2)",,,aasdasdasdasd,patho
+"وريد،واريکوزيتي(سطح 2)",,,aasdasdasdasd,patho
+FNA CYTOLOGY Breast,,,aasdasdasdasd,patho
+FNA CYTOLOGY other,,,aasdasdasdasd,patho
+PD-L1,,,aasdasdasdasd,patho
+ايمونوهيستوشيمي آنتي بادي-معده پروستات,,,aasdasdasdasd,patho
+ايمونوهيستوشيمي آنتي بادي-ريه,,,aasdasdasdasd,patho
+ايمونوهيستوشيمي آنتي بادي-کليه لنفوم,,,aasdasdasdasd,patho
+ايمونوهيستوشيمي آنتي بادي-رد پيوند,,,aasdasdasdasd,patho
+ايمونوهيستوشيمي آنتي بادي-معده پروستات,,,aasdasdasdasd,patho
+ايمونوهيستوشيمي آنتي بادي-ريه,,,aasdasdasdasd,patho
+ايمونوهيستوشيمي آنتي بادي-کليه لنفوم,,,aasdasdasdasd,patho
+ايمونوهيستوشيمي آنتي بادي-رد پيوند,,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(ACTH),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(AFP),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(ALK),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(AMA-cr),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Androgen Receptor),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Bcl2),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Bcl6),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Bet Catenin),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Breast2),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CA125),,,aasdasdasdasd,patho
+Calcitonin,,pg/ml,aasdasdasdasd,patho
+ايمونوهيستوشيمي(caldesmon),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CAM5.2LMW),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CATA-3),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD138),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD10),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD123),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD15),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD163),,,aasdasdasdasd,patho
+CD19,,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CA1a),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD20),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD3),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD30),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD43),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD45RO),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD68),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD7),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD34),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD4),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD5),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD56),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD79a),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CDX2),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CEA Polyclonal),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CEA-M),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(C-erb-B2),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Chomogranin A),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CK 5/2),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CK8 & 18),,,aasdasdasdasd,patho
+CK19,,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CK20),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CK5/6),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CK7),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD117),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Collagen IV),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Cycline D1),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Cytokeratin),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Desmin),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(DOG1),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(EMA),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(ER-Esterogen Receptor),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Factor VIII),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Gamma light Chain),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(GATA3),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(GCDFP-15),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(GFAP),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Hepatocyte),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Hepatocyte),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(HMB-45),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(HMWK(BE12)),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Inhibin),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Kappa light chain),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Ki67),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Lambda),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(leukocyte common antigen LCA),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Mamoglubulin),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(MDM 2),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Melan A),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(MIC2),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(MLH1),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(MS1),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(MSA),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(MSH2),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(MSH6),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Myogenin),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Napsin A),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Naspin A),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(NSE),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(P16),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(P53),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(P63),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Pan CK(AE1/AE3)),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(PAX-5),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(PAX-8),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(PC),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(PDL1),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Placental alkaline phosphatase),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(PMS2),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(PR-Progestrone Receptor),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(PSA),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Racemase),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(S100),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Smooth Muscle Actin SMA),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(TdT),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Thyroglobulin),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(TTF-1),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(Vimentin),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(WT1),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(CD31),,,aasdasdasdasd,patho
+IHC-SERIAL,,,aasdasdasdasd,patho
+ايمونوهيستوشيمي(D2-40),,,aasdasdasdasd,patho
+ايمونوهيستوشيمي آنتي بادي,,,aasdasdasdasd,patho
+C.B.C,CBC ,,aasdasdasdasd,hemato
+W.B.C ,WBC,,aasdasdasdasd,hemato
+R.B.C,RBC,,aasdasdasdasd,hemato
+Hb,Hb,,aasdasdasdasd,hemato
+Hct ,Hct,,aasdasdasdasd,hemato
+Platelet ,Platelet,10^3/ul,aasdasdasdasd,hemato
+M.C.V ,MCV(3),fl,aasdasdasdasd,hemato
+M.C.H ,MCH(3),pg,aasdasdasdasd,hemato
+M.C.H.C ,MCHC(3),g/dl,aasdasdasdasd,hemato
+RDW-CV,RDW,,aasdasdasdasd,hemato
+PDW,,,aasdasdasdasd,hemato
+MPV,,fl,aasdasdasdasd,hemato
+Band cell,Band,,aasdasdasdasd,hemato
+P-LCR,,,aasdasdasdasd,hemato
+Neutrophils,Neut,%,aasdasdasdasd,hemato
+Monocyte,Mono,%,aasdasdasdasd,hemato
+Lymphocyte,Lymph,%,aasdasdasdasd,hemato
+Eosinophil ,Eosin,%,aasdasdasdasd,hemato
+Basophil ,Baso,,aasdasdasdasd,hemato
+LUC (Atypical Cell),LUC,,aasdasdasdasd,hemato
+Blood Group ,B.Group,,aasdasdasdasd,hemato
+Rh Factor ,Rh,,aasdasdasdasd,hemato
+ESR 1st hr,ESR 1hr,,aasdasdasdasd,hemato
+ESR 2nd hr ,ESR 2 hr,,aasdasdasdasd,hemato
+Leishman Body,Lishma,,aasdasdasdasd,hemato
+Trypanosoma,Tryp,,aasdasdasdasd,hemato
+L.E. Cell Preparation,LE Cell,,aasdasdasdasd,hemato
+Osmotic Fragility,c Osmotic,,aasdasdasdasd,hemato
+Beginning Of Hemolysis.,,,aasdasdasdasd,hemato
+Complate Of Hemolysis.,,,aasdasdasdasd,hemato
+Hb Electerophoresis,c Hb EP,,aasdasdasdasd,hemato
+Hb A1 (EP),HA1,,aasdasdasdasd,hemato
+Hb F (Singer Test),HbF,,aasdasdasdasd,hemato
+"S,D,G",SDG,,aasdasdasdasd,hemato
+Hb A2 (EP),HA2,,aasdasdasdasd,hemato
+Hb.Hprep.,c Hb H,,aasdasdasdasd,hemato
+Malaria,c malaria,,aasdasdasdasd,hemato
+Cryfibrinogen,P Cit Cryfibr,,aasdasdasdasd,hemato
+Cryoglobolin,s Cryoglobolin,,aasdasdasdasd,hemato
+Cold Agglutination Test,s cold Aggl,,aasdasdasdasd,hemato
+Blood Smear*,Blood SE,,aasdasdasdasd,hemato
+NBT,c NBT,,aasdasdasdasd,hemato
+Reticulocyte,c Retic,,aasdasdasdasd,hemato
+Blood Smear,Blood-S,,aasdasdasdasd,hemato
+Selenium,s Selenium,,aasdasdasdasd,hemato
+Sickel,c Sickel,,aasdasdasdasd,hemato
+PT Control,PT.C,,aasdasdasdasd,hemato
+INR,INR,,aasdasdasdasd,hemato
+Platelet,Platelet,,aasdasdasdasd,hemato
+CSF Routine ,*-CSF-Rout,,aasdasdasdasd,hemato
+Specimen ,Specimen,,aasdasdasdasd,hemato
+Color ,Color,,aasdasdasdasd,hemato
+Appearance ,App.,,aasdasdasdasd,hemato
+Total Cell ,Total Cell,,aasdasdasdasd,hemato
+W.B.C,W.B.C,,aasdasdasdasd,hemato
+Neutrophils ,Neutro.,,aasdasdasdasd,hemato
+Lymphocytes ,Lymph.,,aasdasdasdasd,hemato
+R.B.C ,R.B.C,,aasdasdasdasd,hemato
+Peritoneal Fluid Routine,*-Peritone,,aasdasdasdasd,hemato
+ Total Cell ,Tptal Cell,,aasdasdasdasd,hemato
+R.B.C...,R.B.C.,,aasdasdasdasd,hemato
+Synovial Fluid Routine ,*-Synovial,,aasdasdasdasd,hemato
+Ascitic- Routine ,*-ASC-Rout,,aasdasdasdasd,hemato
+Specimen ,Specimen,,aasdasdasdasd,hemato
+Color,Color,,aasdasdasdasd,hemato
+Appearance,App.,,aasdasdasdasd,hemato
+Total Cell ,Total Cell,,aasdasdasdasd,hemato
+W.B.C.,W.B.C.,,aasdasdasdasd,hemato
+Pleural Fluid Routine,Pleural,,aasdasdasdasd,hemato
+Neutruphils ,Neutro.,,aasdasdasdasd,hemato
+Lymphosyte ,Lymph.,,aasdasdasdasd,hemato
+R.B.C. ,R.B.C.,,aasdasdasdasd,hemato
+IL-6,il-6,pg/ml,aasdasdasdasd,hemato
+P-ANCA,P-ANCA,AU/ml,aasdasdasdasd,hemato
+C-ANCA,C-ANCA,AU/ml,aasdasdasdasd,hemato
+galactommanan,,Index,aasdasdasdasd,hemato
+Anti Acetylcholin Receptor,,,aasdasdasdasd,hemato
+Thyroxin(Total T4),T4 ,ug/dl,aasdasdasdasd,hormon
+T3,T3,nmol/l,aasdasdasdasd,hormon
+T.S.H ,TSH,mlu/L,aasdasdasdasd,hormon
+T3-Uptake,T3 Up,,aasdasdasdasd,hormon
+Free Thyroxine Index (FTI),F.T.I,,aasdasdasdasd,hormon
+Free T3 ,FT3,pg/ml,aasdasdasdasd,hormon
+Free T4 ,FT4 ,ng/dl,aasdasdasdasd,hormon
+FSH ,FSH,,aasdasdasdasd,hormon
+LH ,LH ,,aasdasdasdasd,hormon
+Prolactin ,Prolac,,aasdasdasdasd,hormon
+"Macro Prolactin,PEG.recovery",M.Prolac,,aasdasdasdasd,hormon
+Prolactin Post PEG,Prolac EPG,,aasdasdasdasd,hormon
+Progesterone ,Progestro,,aasdasdasdasd,hormon
+Testosterone ,Testost,,aasdasdasdasd,hormon
+Free Testosterone ,FreeTest,,aasdasdasdasd,hormon
+17-OH Progesterone,17OH-Proges,ng/mL,aasdasdasdasd,hormon
+Beta HCG ,BHCG ,,aasdasdasdasd,hormon
+Beta HCG,Beta,,aasdasdasdasd,hormon
+Beta HCG Titer,s-BHCG Tit,,aasdasdasdasd,hormon
+VIT.D3,VIT.D3,ng/ml,aasdasdasdasd,hormon
+Microglobulin-Beta-2,B2mi,mg/dl,aasdasdasdasd,hormon
+pro calcitonin,pro calci,ng/ml,aasdasdasdasd,hormon
+Cortisol,Cor,micg/dl,aasdasdasdasd,hormon
+calcitonin,calcitonin.,pg/ml,aasdasdasdasd,hormon
+IGF-1,IGF-1,ng/ml,aasdasdasdasd,hormon
+DHEA-S,DHEA-S,µg/dL,aasdasdasdasd,hormon
+PTH,PTH,"pg/ml	",aasdasdasdasd,hormon
+GH,GH,ng/ml,aasdasdasdasd,hormon
+Erythropoitin,EPO,,aasdasdasdasd,hormon
+Adrenocorticotropic Hormone,ACTH,,aasdasdasdasd,hormon
+Aldosterone,aldo,ng/dl,aasdasdasdasd,hormon
+Roma index ,roma,,aasdasdasdasd,hormon
+DHT,DHT,,aasdasdasdasd,hormon
+CEA,CEA,ng/ml,aasdasdasdasd,hormon
+CA 19- 9,CA 19 9,U/ml,aasdasdasdasd,hormon
+CA 15-3 ,CA 15 3,U/ml,aasdasdasdasd,hormon
+CA-125 ,CA-125,U/ml,aasdasdasdasd,hormon
+AFP,AFP,ng/ml,aasdasdasdasd,hormon
+CA 27-29,CA 27-29,,aasdasdasdasd,hormon
+Prostatic Specific Ag,PSA,ng/ml,aasdasdasdasd,hormon
+Free PSA,s Free.PSA,ng/ml,aasdasdasdasd,hormon
+Free PSA / Total PSA,,,aasdasdasdasd,hormon
+AFP MOM,,,aasdasdasdasd,hormon
+Hi Risk,,,aasdasdasdasd,hormon
+HE4 ,s HE4,Pmol/L,aasdasdasdasd,hormon
+Roma Index,s Roma,,aasdasdasdasd,hormon
+Double Marker,Dabele Marker,,aasdasdasdasd,hormon
+Tripel Marcer,Tripel Marker,,aasdasdasdasd,hormon
+Quad Marcer,Coad Marker,,aasdasdasdasd,hormon
+Free Beta,Free Beta,,aasdasdasdasd,hormon
+PAPP-A,PAPP-A,,aasdasdasdasd,hormon
+U E3,UE3,,aasdasdasdasd,hormon
+Inhibin . A,s-Inhibin,pg/ml,aasdasdasdasd,hormon
+A.F.P,A.F.P,,aasdasdasdasd,hormon
+Beta HCG .Titer,Beta Titer,,aasdasdasdasd,hormon
+Free Beta HCG,Free Beta,,aasdasdasdasd,hormon
+feee cortisol 24,Free cortisol24,micg/24hrs,aasdasdasdasd,hormon
+Sars covid 19 (IgG),Coid IgG,,aasdasdasdasd,hormon
+Sars covid 19 (IgM),Coid IgM,,aasdasdasdasd,hormon
+Food Allergens Test,Food Aler,,aasdasdasdasd,hormon
+Anti Histon,s Histon,,aasdasdasdasd,hormon
+Covid-19 Neutralization,Covid Neut,,aasdasdasdasd,hormon
+Leptin,s Leptin,,aasdasdasdasd,hormon
+Panel Reactive Ab (Fellow),s Panel,,aasdasdasdasd,hormon
+Interleukin-6,s IL6,pg/ml,aasdasdasdasd,hormon
+HLA B5,c HLA B5,,aasdasdasdasd,hormon
+HLA B27,c HLA B27,,aasdasdasdasd,hormon
+HLA B51,c HLA B51,,aasdasdasdasd,hormon
+HLA B52,c HLA B52,,aasdasdasdasd,hormon
+HLA B8,c HLA B8,,aasdasdasdasd,hormon
+IGG4,s IGG4,,aasdasdasdasd,hormon
+B2-Glycoprotein (IgA),B2IGA,,aasdasdasdasd,hormon
+IL-6,il-6,pg/ml,aasdasdasdasd,hormon
+P-ANCA,P-ANCA,AU/ml,aasdasdasdasd,hormon
+C-ANCA,C-ANCA,AU/ml,aasdasdasdasd,hormon
+galactommanan,,Index,aasdasdasdasd,hormon
+Anti Acetylcholin Receptor,,,aasdasdasdasd,hormon
+"بررسي تکرارهاي ژنومي-STR
+",,,aasdasdasdasd,genetic
+"بررسي تکرارهاي ژنومي
+",,,aasdasdasdasd,genetic
+"تعيين نوع DNA  
+",,,aasdasdasdasd,genetic
+"تعيين جهش با روش pCR
+",,,aasdasdasdasd,genetic
+"Factor V  leiden (PCR) 
+",,,aasdasdasdasd,genetic
+"G20210 ( Factor II) PCR
+",,,aasdasdasdasd,genetic
+"PAI- 1  (PCR)
+",,,aasdasdasdasd,genetic
+"Factor XIII  (PCR)
+",,,aasdasdasdasd,genetic
+"Qualitative RT-PCR
+",,,aasdasdasdasd,genetic
+"انجام PCR براي ژنتيک پزشکي
+",,,aasdasdasdasd,genetic
+"کيفي براي ساير عوامل PCR
+",,,aasdasdasdasd,genetic
+"Turation Electrophores  
+",,,aasdasdasdasd,genetic
+"Mutation Detection- Gradient Dena Gel  
+",,,aasdasdasdasd,genetic
+"تعيين توالي يک آمپليکن
+",,,aasdasdasdasd,genetic
+"HCV-RT-PCR
+",,,aasdasdasdasd,genetic
+"bcr-abl RT-PCR
+",,,aasdasdasdasd,genetic
+"HIV-RT-PCR
+",,,aasdasdasdasd,genetic
+"Measles RNA PCR
+",,,aasdasdasdasd,genetic
+"Rubella RT-PCR
+",,,aasdasdasdasd,genetic
+"RSV RNA (RT-PCR)
+",,,aasdasdasdasd,genetic
+"HDV/RT/PCR
+",,,aasdasdasdasd,genetic
+"Mumps RNA (RT PCR)
+",,,aasdasdasdasd,genetic
+"P.R.G.A  DNA PCR (RFLP)
+",,,aasdasdasdasd,genetic
+"bcr-abl RT PCR
+",,,aasdasdasdasd,genetic
+"Minimal Residal Disease
+",,,aasdasdasdasd,genetic
+"t(12:21):ETV6(TEL) RNA
+",,,aasdasdasdasd,genetic
+"t(1:19)E2A(TCF3)-PBX1 RNA
+",,,aasdasdasdasd,genetic
+"t(4:11)MLL-AF4 RNA
+",,,aasdasdasdasd,genetic
+"FLP1L1-PDGFRA RNA
+",,,aasdasdasdasd,genetic
+"FLT3 DNA PCR
+",,,aasdasdasdasd,genetic
+"RT-PCR RNA
+",,,aasdasdasdasd,genetic
+استفاده ازPcR کمي براي تعيين بار ساير عوامل بيماري,,,aasdasdasdasd,genetic
+"RT-PCRکمي 
+",,,aasdasdasdasd,genetic
+"EBV PCR-Q
+",,,aasdasdasdasd,genetic
+"CMV-PCR-Q
+",,,aasdasdasdasd,genetic
+"Minimal Residul DiseaseQ
+",,,aasdasdasdasd,genetic
+"HCV Genotyping PCR
+",,,aasdasdasdasd,genetic
+"HBV PCR (Quantitative)
+",,,aasdasdasdasd,genetic
+"HCV RNA(Quantitative)
+",,,aasdasdasdasd,genetic
+"HIV Quantitative
+",,,aasdasdasdasd,genetic
+"bcr-abl Quantitative RT PCR
+",,,aasdasdasdasd,genetic
+"HBV Genotyping PCR
+",,,aasdasdasdasd,genetic
+"HDV RNA PCR Q
+",,,aasdasdasdasd,genetic
+"PCR Interpertation 
+",,,aasdasdasdasd,genetic
+"PCR Interpretaion
+",,,aasdasdasdasd,genetic
+"RT-PCRکمي براي ژنتيک پزشکي
+",,,aasdasdasdasd,genetic
+"pCRکيفي
+",,,aasdasdasdasd,genetic
+"RT-PCR کيفي براي ساير عوامل بيماري زا
+",,,aasdasdasdasd,genetic
+"HlAA BDR
+",,,aasdasdasdasd,genetic
+"HLA ABC
+",,,aasdasdasdasd,genetic
+"تعيين پرايمر براي DQBi.DQAL.hLA
+",,,aasdasdasdasd,genetic
+"تعيين پرايمر برايDrb3.DRB2.DRB1.HLA
+",,,aasdasdasdasd,genetic
+"تطبيق نمونه ها از طريق Y-str
+",,,aasdasdasdasd,genetic
+"paternity -ind- پدر-فرزندي خويشاوندي
+",,,aasdasdasdasd,genetic
+"paternity-ind-جد مادري
+",,,aasdasdasdasd,genetic
+"بررسي خويشاوندي برادري-جد پدري
+",,,aasdasdasdasd,genetic
+"تطبيق نمونه ها از طريق DNA-ind
+",,,aasdasdasdasd,genetic
+"تطبيق نمونه ها از طريق جد پدر- برادري-ind
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون-IND
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون3
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون4
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون5
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون6
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون7
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون8
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون9
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون10
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون11
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون12
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون13
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون14
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون15
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون16
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون17
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون 18
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون19
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون20
+",,,aasdasdasdasd,genetic
+"تعيين توالي اگزون21
+",,,aasdasdasdasd,genetic
+"غربالگري دابل مارکر
+",,,aasdasdasdasd,genetic
+"تريپل مارکر 
+",,,aasdasdasdasd,genetic
+"Beta thal PND 2
+",,,aasdasdasdasd,genetic
+"Alpha thal PND2
+",,,aasdasdasdasd,genetic
+"SMA-PND
+",,,aasdasdasdasd,genetic
+"PND2-Sickle Cell mutation
+",,,aasdasdasdasd,genetic
+"SICKLE-PND
+",,,aasdasdasdasd,genetic
+"PND2-Cystic Fibrosis- mutation
+",,,aasdasdasdasd,genetic
+"PND2-Fragile X-Mol
+",,,aasdasdasdasd,genetic
+"gaucher
+",,,aasdasdasdasd,genetic
+"PND2-Gaucher mutation
+",,,aasdasdasdasd,genetic
+"CF-PND
+",,,aasdasdasdasd,genetic
+"نقص انعقادي هموفيلي A/B..مرحله دوم تعيين جنسيت
+",,,aasdasdasdasd,genetic
+"هموفيلي A/Bتعيين وضعيت نهايي جنين
+",,,aasdasdasdasd,genetic
+"حذف ژني مرحله اول
+",,,aasdasdasdasd,genetic
+"PND2-Duchenne-mutation
+",,,aasdasdasdasd,genetic
+"حذف ژني مرحله سوم تعيين  نهايي وضعيت جنين
+",,,aasdasdasdasd,genetic
+"Factor XIII mutation
+",,,aasdasdasdasd,genetic
+"Factor-V (Leiden)
+",,,aasdasdasdasd,genetic
+"Factor 5
+",,,aasdasdasdasd,genetic
+"PTT-Pro-Thrombi (Factor II)
+",,,aasdasdasdasd,genetic
+"Factor2
+",,,aasdasdasdasd,genetic
+"تغيير تک بازي
+",,,aasdasdasdasd,genetic
+"بررسي تک بازي
+",,,aasdasdasdasd,genetic
+"بررسي يک تغيير تک بازي نقش دارويي
+",,,aasdasdasdasd,genetic
+"بررسي يک تغيير تک يازي
+",,,aasdasdasdasd,genetic
+"بررسي موتاسيون داروئي
+",,,aasdasdasdasd,genetic
+"نقص Alfa Tripsin
+",,,aasdasdasdasd,genetic
+" 1تريپسين نقص الفا-1موتاسيون
+",,,aasdasdasdasd,genetic
+"PAI gene- mutation
+",,,aasdasdasdasd,genetic
+"واريانت تک نوکلئوتيدي
+",,,aasdasdasdasd,genetic
+"بررسي واريانت تک نوکلئوتيدي ARMS
+",,,aasdasdasdasd,genetic
+"بررسي يک واريانت تک نوکلئوتيدي
+",,,aasdasdasdasd,genetic
+"BRAF/1mutation
+",,,aasdasdasdasd,genetic
+"Clotting Panel
+",,,aasdasdasdasd,genetic
+"MTH-FR gene- Mutation
+",,,aasdasdasdasd,genetic
+"FMF-
+",,,aasdasdasdasd,genetic
+"Haemachromatosis- HEF- mutation
+",,,aasdasdasdasd,genetic
+"موتاسيون هاي شايع همو کرو ما تو
+",,,aasdasdasdasd,genetic
+"بررسي موتاسيون هاي شايع همو کروماتو
+",,,aasdasdasdasd,genetic
+"AZFبررسي حذف نواحي
+",,,aasdasdasdasd,genetic
+"AZF
+",,,aasdasdasdasd,genetic
+"SRY/Sex Determination
+",,,aasdasdasdasd,genetic
+"FLT-3-AML mutation
+",,,aasdasdasdasd,genetic
+"JAK2-Leukemia v617F mutation   
+",,,aasdasdasdasd,genetic
+"cKIT
+",,,aasdasdasdasd,genetic
+"K-ras- Lung & Gastrointestinal Cancer
+",,,aasdasdasdasd,genetic
+"KRAS mutation
+",,,aasdasdasdasd,genetic
+"NRAS
+",,,aasdasdasdasd,genetic
+"بررسي موتاسيون ها ي ALK
+",,,aasdasdasdasd,genetic
+"EGFR gene- Cancer mutation
+",,,aasdasdasdasd,genetic
+"بررسي موتاسيون به روش کمي
+",,,aasdasdasdasd,genetic
+"RT-PCR translocation (1,19) AML
+",,,aasdasdasdasd,genetic
+"RT-PCR translocation (9,22) Quantitative II leukem",,,aasdasdasdasd,genetic
+"RT-PCR inv(16)- leukemia
+",,,aasdasdasdasd,genetic
+"RT-PCR translocation (1,19)-leukemia 
+",,,aasdasdasdasd,genetic
+"RT-PCR translocation (12,21)-leukemia 
+",,,aasdasdasdasd,genetic
+"RT-PCR translocation (15,17)-leukemia 
+",,,aasdasdasdasd,genetic
+"RT-PCR translocation (4,11)-leukemia 
+",,,aasdasdasdasd,genetic
+"RT-PCR translocation (8,21)-leukemia 
+",,,aasdasdasdasd,genetic
+"RT-PCR translocation (9,22)-leukemia 
+",,,aasdasdasdasd,genetic
+"RT-PCR translocation (TAL1D)-leukemia 
+",,,aasdasdasdasd,genetic
+"RT-PCR ترنس لوکميا
+",,,aasdasdasdasd,genetic
+"RT-PCR ترنس لوسمي
+",,,aasdasdasdasd,genetic
+"RT-PCR translocation leukemia
+",,,aasdasdasdasd,genetic
+"Sickle Cell Family mutation
+",,,aasdasdasdasd,genetic
+"سيکل سل مرحله اول پدر فرزند
+",,,aasdasdasdasd,genetic
+"سيکل سل مرحله اول مادر فرزند
+",,,aasdasdasdasd,genetic
+"Achondroplasia
+",,,aasdasdasdasd,genetic
+"Mutation Confirmation- rare mutation
+",,,aasdasdasdasd,genetic
+"mutation confermation
+",,,aasdasdasdasd,genetic
+"1-Mutation -Family
+",,,aasdasdasdasd,genetic
+"Ataxi Feredrich
+",,,aasdasdasdasd,genetic
+"بررسي  تکرارهاي 3 نوکلئوئيدي آتاکسي فردريش
+",,,aasdasdasdasd,genetic
+"بررسي  تکرارهاي 3 نوکلئوتيدي در ديستروني ميوتوني
+",,,aasdasdasdasd,genetic
+"ديستروفي ميوتونيک
+",,,aasdasdasdasd,genetic
+"هانتينکتون
+",,,aasdasdasdasd,genetic
+"Fragile X-Mol-Ind
+",,,aasdasdasdasd,genetic
+"SCA
+",,,aasdasdasdasd,genetic
+بررسي موتاسيون کمپلکس مواردي که حذف يا واژگوني دار,,,aasdasdasdasd,genetic
+"بررسي inversion 22)(هموفيليَ
+",,,aasdasdasdasd,genetic
+بتا تالاسمي (فقط بررسي جهش هاي )پدر به همراه فرزند,,,aasdasdasdasd,genetic
+بتا تالاسمي (فقط بررسي جهش شاي)مادر به همراه فرزند,,,aasdasdasdasd,genetic
+"پي کي يو(فقط بررسي جهش هاي شايع)پدر به فرزند
+",,,aasdasdasdasd,genetic
+"پي کي يو (فقط بررسي جهش هاي شايع)مادر به فرزند
+",,,aasdasdasdasd,genetic
+آلفا تالاسمي (فقط بررسي حذف هاي شايع)پدر به فرزند,,,aasdasdasdasd,genetic
+آلفا تالاسمي (فقط بررسي حذف هاي شاي) مادر به فرزند,,,aasdasdasdasd,genetic
+"Cystic Fibrosis- mutation
+",,,aasdasdasdasd,genetic
+"Cystic fibrosis CFTR
+",,,aasdasdasdasd,genetic
+"CF فقط بررسي جهش هاي شايع پدر وفرزند
+",,,aasdasdasdasd,genetic
+"CF فقط بررسي جهش هاي شايع پدر وفرزند
+",,,aasdasdasdasd,genetic
+"CF فقط بررسي جهش هاي شايع مادر به فرزند
+",,,aasdasdasdasd,genetic
+"بررسي 2تا10 موتاسيون شايع در يک بيماري
+",,,aasdasdasdasd,genetic
+"Connexin- Ind deafnessپدر فرزند
+",,,aasdasdasdasd,genetic
+"NPM-1 gene mutation- Aml
+",,,aasdasdasdasd,genetic
+"Connexin26مادرفرزندي 
+",,,aasdasdasdasd,genetic
+"تعيين توالي يک اگزون
+",,,aasdasdasdasd,genetic
+"Beta Thalassemia
+",,,aasdasdasdasd,genetic
+"مرحله اول تالاسمي بتا پدر -فرزند
+",,,aasdasdasdasd,genetic
+"مرحله اول تالاسمي بتا مادر فرزند
+",,,aasdasdasdasd,genetic
+"Alpha Thalassemia
+",,,aasdasdasdasd,genetic
+"بررسي مرحله اول تالاسمي آلفا پدر به فرزند
+",,,aasdasdasdasd,genetic
+"بررسي مرحله اول تالاسمي آلفا مادر به فرزند
+",,,aasdasdasdasd,genetic
+"اتروفي عضلاني اسپينال/ SMA-Ind
+",,,aasdasdasdasd,genetic
+"مرحله اول SMAبراي پدر به همراه فرزند
+",,,aasdasdasdasd,genetic
+"مرحله اول SMAبراي مادر به فرزند
+",,,aasdasdasdasd,genetic
+"بررسي دوپليکاسيونPMP22درشارکوت توث
+",,,aasdasdasdasd,genetic
+"موتاسيون ژن v-HL(در بيماري von Hippel
+",,,aasdasdasdasd,genetic
+"تعيين توالي 2-5 اگزون
+",,,aasdasdasdasd,genetic
+"Duchenne-Ind
+",,,aasdasdasdasd,genetic
+"Duchenne- Family
+",,,aasdasdasdasd,genetic
+"بررسي حذف هاي ژن DmD دربيماران دوشن وبکر
+",,,aasdasdasdasd,genetic
+"CAH- mutation
+",,,aasdasdasdasd,genetic
+"بررسي تمام اگزونها در بيماري هموفيلي
+",,,aasdasdasdasd,genetic
+"بررسي بيماري شوگرن لارسن ژنALDH3A2
+",,,aasdasdasdasd,genetic
+"کاناوان ژن ASPA
+",,,aasdasdasdasd,genetic
+"سندروم SLOS - ژن DHCR7
+",,,aasdasdasdasd,genetic
+"سندروم ولفرام ژن WFS1
+",,,aasdasdasdasd,genetic
+"فاکتور7-ژن F7
+",,,aasdasdasdasd,genetic
+"نقص فاکتور 10 انعقادي
+",,,aasdasdasdasd,genetic
+"سندرم برنارد بررسي ژن هاي GPIBA
+",,,aasdasdasdasd,genetic
+"سندرم برنارد بررسي ژن هاي GPIPB
+",,,aasdasdasdasd,genetic
+"سندروم برنارد در ژن هاي
+",,,aasdasdasdasd,genetic
+"6-10 اگزون
+",,,aasdasdasdasd,genetic
+"بدونCGHA QF
+",,,aasdasdasdasd,genetic
+"بدونCGHA QF1
+",,,aasdasdasdasd,genetic
+"بررسي ژن APCدرپوليپوزيس ارثي
+",,,aasdasdasdasd,genetic
+"ادنوزين د اميناز ژن ADA
+",,IU/L,aasdasdasdasd,genetic
+"ژن کامل فاکتور 2
+",,,aasdasdasdasd,genetic
+"ژن کامل در فاکتور 5
+",,,aasdasdasdasd,genetic
+"ژن کامل در فاکتور 11
+",,,aasdasdasdasd,genetic
+"بررسي ژن BLMدر سندروم بلوم
+",,,aasdasdasdasd,genetic
+"ژن CDH1-Gastric cancer
+",,,aasdasdasdasd,genetic
+"سندروم  Li-Fraumeni در ژن TP53
+",,,aasdasdasdasd,genetic
+"بررسي ژن wAS در سندروم ويسکوت الدريج
+",,,aasdasdasdasd,genetic
+"11-25 اگزون
+",,,aasdasdasdasd,genetic
+"Sequencing Cystic Fibrosis
+",,,aasdasdasdasd,genetic
+"بررسي بيماري CFبا روش تعيين توالي کل ژن 
+",,,aasdasdasdasd,genetic
+"بررسي هموفيلي Aبا روش تعيين توالي کل ژن
+",,,aasdasdasdasd,genetic
+"RB1-رتينو بلاستوما
+",,,aasdasdasdasd,genetic
+"بر رسي ژن RBI
+",,,aasdasdasdasd,genetic
+"بررسي ژن CLCN7 در بيماري اسئوپتروز
+",,,aasdasdasdasd,genetic
+"26-50 اگزون
+",,,aasdasdasdasd,genetic
+"ساير اگزون26-50
+",,,aasdasdasdasd,genetic
+"BRCA panel (MLPA-BRCA I,II)
+",,,aasdasdasdasd,genetic
+"ژنهاي BRCa1-BRCA2 در سرطان پستان
+",,,aasdasdasdasd,genetic
+"تعيين توالي بيش از 50 اگزون
+",,,aasdasdasdasd,genetic
+"بررسي 1تا20 ژن توسط NGS
+",,,aasdasdasdasd,genetic
+"بررسي 21تا50 ژن توسط NGS
+",,,aasdasdasdasd,genetic
+"NGS-Premature Ovarian Failure (18 Genes)
+",,,aasdasdasdasd,genetic
+"بررسي 51تا 200ژن توسط NGS
+",,,aasdasdasdasd,genetic
+"NGS-Deafness panel all known gene
+",,,aasdasdasdasd,genetic
+"NGS-Neuromuscular panel
+",,,aasdasdasdasd,genetic
+"NGS-Metabolic disease panel (being complete)
+",,,aasdasdasdasd,genetic
+"NGS- Hearing Loss 117 gene
+",,,aasdasdasdasd,genetic
+"NGS-Metabolic Disease
+",,,aasdasdasdasd,genetic
+"NGS-Muscular Dystrophy
+",,,aasdasdasdasd,genetic
+"NGS-Bardet-Biedlsyndrome(20Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Corpus Callosum Agenesis (107Genes)
+",,,aasdasdasdasd,genetic
+"NGS-CMT& Sensory Neuropathies(83 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Exome
+",,,aasdasdasdasd,genetic
+"NGS-Hearing Loss(90 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-MR(syndromic & non- syndromicID)(579Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Muscular Dystrophy(48 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-SMA(22Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Congenital & Distal Myopathies(66Genes)
+",,,aasdasdasdasd,genetic
+"NGS- Metabolic Myopathies (39 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Myotonia(11 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Hereditary spastic paraplegia(61 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Dystonia(40 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Ataxia(50 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Microcephaly,PontocerebellarHypoplasia,Cortica",,,aasdasdasdasd,genetic
+"NGS-Neuronal Migrathon Disorders (46 Genes)
+",,,aasdasdasdasd,genetic
+NGS-Congenital Disorders of Glycosylation (33Genes,,,aasdasdasdasd,genetic
+"NGS-Lysosomal Disorders (27 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Peroxisomal Disorders (16 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Coenzyme Q Deficiency
+",,,aasdasdasdasd,genetic
+"NGS-Glutaric Aciduria(4 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Glycine Encephalopathy(3 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Hyerphenylalaninemia(4 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Joubert Syndrome (23 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Episodic Ataxia(8 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Pediatric Epilepsies(29 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Syndromic ID (214 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Ichthyosis(18 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Disorders of Sex Development(46 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-X-Linked MR (X-linked ID) (106 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Neurofibromatosis(11 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Osteogenesis imperfecta (18Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Epidermolysis bullosa (18 Genes)
+",,,aasdasdasdasd,genetic
+"NGS-Panel Breast Cancer(4 genes)
+",,,aasdasdasdasd,genetic
+" NGS-Syndrome Marfan
+",,,aasdasdasdasd,genetic
+"NGS-MMAC
+",,,aasdasdasdasd,genetic
+"NGS-Tyrosinemia type I
+",,,aasdasdasdasd,genetic
+"NGS- Noonan
+",,,aasdasdasdasd,genetic
+"Exome Sequencing Rasearch
+",,,aasdasdasdasd,genetic
+"NGS-Cornelia delange
+",,,aasdasdasdasd,genetic
+"NGS- Niemann Pick
+",,,aasdasdasdasd,genetic
+"NGS- seckel syndrome
+",,,aasdasdasdasd,genetic
+"NGS- Osteopetrosis
+",,,aasdasdasdasd,genetic
+"NGS-Ichthyosis panel
+",,,aasdasdasdasd,genetic
+"NGS-lissencephaly panel
+",,,aasdasdasdasd,genetic
+"NGS-Diabetes neonatal panel
+",,,aasdasdasdasd,genetic
+"NGS-Lysosomal storge disease panel 13 GEN
+",,,aasdasdasdasd,genetic
+"NGS-Glycosylation disorder panel-NGS
+",,,aasdasdasdasd,genetic
+"NGS-Diamond blackfan anemia
+",,,aasdasdasdasd,genetic
+"NGS-MODY panel
+",,,aasdasdasdasd,genetic
+"NGS-Glycogen storge diease panel advanced
+",,,aasdasdasdasd,genetic
+"NGS-Mucopolysaccharidosis panel
+",,,aasdasdasdasd,genetic
+"NGS-Urea cycle disorder panel
+",,,aasdasdasdasd,genetic
+"NGS-Zellweger syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Aicardi-Goutieres syndrome panel
+",,,aasdasdasdasd,genetic
+" NGS-Alzheimer dementia and dementia panel
+",,,aasdasdasdasd,genetic
+"NGS-Amyotrophic lateral sclerosis ALS panel
+",,,aasdasdasdasd,genetic
+"NGS-Bethlem myopathy panel
+",,,aasdasdasdasd,genetic
+"NGS-Cerebellar ataxia panel
+",,,aasdasdasdasd,genetic
+"NGS-Ceroid lipofucinosis panel
+",,,aasdasdasdasd,genetic
+NGS-CMT neuropathy axonal autosomal dominant panel,,,aasdasdasdasd,genetic
+"NGS-CMT neuropathy  demyelinating panel
+",,,aasdasdasdasd,genetic
+"NGS-Congenital myasthentic syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Congenital myopathy panel
+",,,aasdasdasdasd,genetic
+"NGS-Dejerine-Sottas syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Dementia panel
+",,,aasdasdasdasd,genetic
+"NGS-Dravet syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Dystonia panel(9 Gen)
+",,,aasdasdasdasd,genetic
+NGS-early infantile epileptic encephalopathy panel,,,aasdasdasdasd,genetic
+"NGS-Epilpsy absence in childhood panel
+",,,aasdasdasdasd,genetic
+"NGS-Epilepsy partial hereditary panel
+",,,aasdasdasdasd,genetic
+"NGS-Epileptic encephalopathy panel
+",,,aasdasdasdasd,genetic
+"NGS-Episodic ataxia panel
+",,,aasdasdasdasd,genetic
+"NGS-Familial hemiplegic migraine panel
+",,,aasdasdasdasd,genetic
+"NGS-Frontotemporal dementia panel
+",,,aasdasdasdasd,genetic
+"NGS-hereditary hyperekplexia panel
+",,,aasdasdasdasd,genetic
+"NGSLimb-girdle muscular dystrophy panel
+",,,aasdasdasdasd,genetic
+"NGS-Malignant hyperthermia panel
+",,,aasdasdasdasd,genetic
+"NGS-Mental retardation, X linked panel
+",,,aasdasdasdasd,genetic
+"NGS-Metabolic myopathies panel
+",,,aasdasdasdasd,genetic
+"NGS-Tuberous sclerosis panel
+",,,aasdasdasdasd,genetic
+"NGS-Microcephaly panel
+",,,aasdasdasdasd,genetic
+"NGS-Mitochondrial dysfunctions panel
+",,,aasdasdasdasd,genetic
+"NGS-Myofibrillar myopathy panel
+",,,aasdasdasdasd,genetic
+"NGS-Myopathy-rhabdomyolysis syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Nemaline myopathy panel
+",,,aasdasdasdasd,genetic
+"NGS-Parkinsons disease panel
+",,,aasdasdasdasd,genetic
+"NGS-Pontocerebellar hypoplasia panel
+",,,aasdasdasdasd,genetic
+"NGS-SCA panel
+",,,aasdasdasdasd,genetic
+"NGS-Spastic paraolegia panel autosomal dominant
+",,,aasdasdasdasd,genetic
+"NG-Spastic paraolegia panel autosomal recessive
+",,,aasdasdasdasd,genetic
+"NGS-Ullrich muscular dystrophy panel
+",,,aasdasdasdasd,genetic
+"NGS-Walker-Warburg syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Albinism panel
+",,,aasdasdasdasd,genetic
+"NGS-Cataract panel
+",,,aasdasdasdasd,genetic
+"NGS-Cone-rod and cone dystrophy panel
+",,,aasdasdasdasd,genetic
+"NGS-Flecked retina panel
+",,,aasdasdasdasd,genetic
+"NGS-Hermansky-Pudlak syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Vitreoretinopathy and Wagner syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Leber optic atrophy panel
+",,,aasdasdasdasd,genetic
+"NGS-Microphthalmia panel
+",,,aasdasdasdasd,genetic
+"NGS-Oculomotor apraxia panel
+",,,aasdasdasdasd,genetic
+"NGS-Optic atrophy panel
+",,,aasdasdasdasd,genetic
+"NGS-Leber congenital amaurosis panel
+",,,aasdasdasdasd,genetic
+NGS-Retinitis pigmentosa panel autosomal dominant,,,aasdasdasdasd,genetic
+NGS-Retinitis pigmentosa panel autosomal recessive,,,aasdasdasdasd,genetic
+"NGS-Stargardt diease panel
+",,,aasdasdasdasd,genetic
+"NGS-Stickler syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Alport syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Ciliary dyskinesia panel
+",,,aasdasdasdasd,genetic
+"NGS-Bartter syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Cornelia de Lange syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Ehlers-Danlos syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Epidermolysis bullosa panel 4gen
+",,,aasdasdasdasd,genetic
+"NGS-Epilepsy with febrile seizures panel
+",,,aasdasdasdasd,genetic
+"NGS-Osteogenesis imperfecta panel 
+",,,aasdasdasdasd,genetic
+"NGS-Osteogenesis  panel 
+",,,aasdasdasdasd,genetic
+"NGS-Aortic aneurysm hereditary thoracic panel
+",,,aasdasdasdasd,genetic
+"NGS-Arthrogryposis panel
+",,,aasdasdasdasd,genetic
+"NGS-Long QT syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Cardiomyopathy dilated panel
+",,,aasdasdasdasd,genetic
+"NGS-Cardiomyopathy hypertrophic panel
+",,,aasdasdasdasd,genetic
+"NGS-Marfan syndrome and related disorder panel
+",,,aasdasdasdasd,genetic
+"NGS-Brugada syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Arrhthmia herditary panel
+",,,aasdasdasdasd,genetic
+"NGS-Polycystic kidney panel
+",,,aasdasdasdasd,genetic
+"NGS-Bardet Biedl panel
+",,,aasdasdasdasd,genetic
+"NGS-Focal Glomerulonephrosis panel
+",,,aasdasdasdasd,genetic
+"NGS-Kallmann syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Maple syrup urine disease panel
+",,,aasdasdasdasd,genetic
+"NGS-Nephronphthisis panel
+",,,aasdasdasdasd,genetic
+"NGS-Pancreatitis panel
+",,,aasdasdasdasd,genetic
+"NGS-Atypical hemolytic uremic syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Infertility panel
+",,,aasdasdasdasd,genetic
+"NGS-Colon cacer and polyposis syndrome 
+",,,aasdasdasdasd,genetic
+"NGS-megaloblastic anemia panel
+",,,aasdasdasdasd,genetic
+"NGS-Pheochromocytoma panel
+",,,aasdasdasdasd,genetic
+"NGS-Spherocytosis panel
+",,,aasdasdasdasd,genetic
+"NGS-Thrombocytopenia panel
+",,,aasdasdasdasd,genetic
+"NGS-Breast ovarian cancer panel
+",,,aasdasdasdasd,genetic
+"NGS-Seckel syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Central hypoventilation syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Coffin-Siris syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Hirschsprung disease panel
+",,,aasdasdasdasd,genetic
+"NGS-Noonan-CFC syndrome panel
+",,,aasdasdasdasd,genetic
+"NGS-Imatinib resistance mutation analysis
+",,,aasdasdasdasd,genetic
+"NGS-Myeloprolifrative Leukemia
+",,,aasdasdasdasd,genetic
+"exome-BGI
+",,,aasdasdasdasd,genetic
+" whole exome 
+",WES,,aasdasdasdasd,genetic
+"exome clinical
+",,,aasdasdasdasd,genetic
+"NGS -anemi fanconi
+",,,aasdasdasdasd,genetic
+"NGS-mitochondria panel
+",,,aasdasdasdasd,genetic
+"   بررسي بيش از 200ژن NGS
+",,,aasdasdasdasd,genetic
+"Hearing Loss
+",,,aasdasdasdasd,genetic
+"NGS-MR
+",,,aasdasdasdasd,genetic
+"ngsبررسي بيش از200ژن نفردوم
+",,,aasdasdasdasd,genetic
+"بررسي بيش از200ژن نفرسومngs
+]",,,aasdasdasdasd,genetic
+کارآموز ,,,aasdasdasdasd,genetic
+مشاوره ژنتيک,,,aasdasdasdasd,genetic
+"کاريوتايپ خون با حد تفکيک 400الي450
+",,,aasdasdasdasd,genetic
+"کاريوتايپ خون با حد تفکيک بالا
+",kar,,aasdasdasdasd,genetic
+"کاريوتايپ فيبرو بلاست پوستي
+",,,aasdasdasdasd,genetic
+"کاريوتايپ خون بندناف
+",,,aasdasdasdasd,genetic
+"Amniotic fluid-Cytogenetics
+",,,aasdasdasdasd,genetic
+"کاريوتايپ -AF
+",,,aasdasdasdasd,genetic
+"امينوسنتز
+",,,aasdasdasdasd,genetic
+"CVS-Cytogenetic
+",,,aasdasdasdasd,genetic
+"کاريوتايپ پرجفتي
+",,,aasdasdasdasd,genetic
+"کاريوتايپ بافت هاي solld
+",,,aasdasdasdasd,genetic
+"Fanconi Anemia-karyotype
+",,,aasdasdasdasd,genetic
+"Fragile x-Cytogenetic
+",,,aasdasdasdasd,genetic
+"بررسي شكستگي كروموزوم– FragX (چهار كشت)
+",,,aasdasdasdasd,genetic
+شكنندگي كروموزومها (فانكوني- سندروم بلوم…) (چهاركش,,,aasdasdasdasd,genetic
+"کاريوتايپ به منظور بررسي سندرم هاي شکست کورموزمي
+",,,aasdasdasdasd,genetic
+"کاريوتايپ بررسي موزاييسم
+",,,aasdasdasdasd,genetic
+"روش هاي نواربندي G,C,NoR band ,q
+",,,aasdasdasdasd,genetic
+"بررسي Fish interphase
+",,,aasdasdasdasd,genetic
+"FISH-N-Myc
+",,,aasdasdasdasd,genetic
+"FISH-di George 22q11.2
+",,,aasdasdasdasd,genetic
+"FISH-Microdeletion
+",,,aasdasdasdasd,genetic
+"FISH-Subtelomer pter
+",,,aasdasdasdasd,genetic
+"FISH-Williams
+",,,aasdasdasdasd,genetic
+"FISH-Wolf-Hirsc
+",,,aasdasdasdasd,genetic
+"FISH-X,Y
+",,,aasdasdasdasd,genetic
+"FISH-Praderwill
+",,,aasdasdasdasd,genetic
+"FISH براي هر probe  
+",,,aasdasdasdasd,genetic
+"QF-PCR-Aneupoleide              
+",,,aasdasdasdasd,genetic
+"MLPA-Microdeletion- physical mental disorder
+",,,aasdasdasdasd,genetic
+"cell Free DNA
+",,,aasdasdasdasd,genetic
+"کاريوتايپ اضافي براي هر مطالعه
+",,,aasdasdasdasd,genetic
+"pgdتعيين جنسيت تاسقف4جنين
+",,,aasdasdasdasd,genetic
+"pgdتعيين جنسيت هرجنين اضافه
+",,,aasdasdasdasd,genetic
+"pgdبراي بررسي ترانسلوکاسسيون
+",,,aasdasdasdasd,genetic
+"pgdبراي بيماريهاي مولکولي مرحله اول
+",,,aasdasdasdasd,genetic
+"pgdبراي بيماري هاي مولکولي تا5جنين
+",,,aasdasdasdasd,genetic
+"pgd مرحله دوم براي بيماري هاي مولکولي
+",,,aasdasdasdasd,genetic
+"pgsباروشngs
+",,,aasdasdasdasd,genetic
+"بررسي CNVبا روشNGS 
+",,,aasdasdasdasd,genetic

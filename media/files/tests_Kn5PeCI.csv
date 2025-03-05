@@ -1,0 +1,3364 @@
+﻿test,Abbr,unit,normalrange,group
+Urinanalysis ,Urin.A,,"Working Days: Sat. Sun. Mon. Thu. Wed. Teu. 
+Days to Report: 2",urin
+Color ,u.Color,,"Working Days: Everyday
+Days to Report: ",urin
+Appearance ,u.Appear,,"Working Days: Everyday
+Days to Report: ",urin
+Sp.Gravity ,uSG,,"Working Days: Everyday
+Days to Report: 
+1.003-1.030",urin
+Ph,u.pH,,"Working Days: Everyday
+Days to Report: 
+4.5-8",urin
+Protein ,u.Pro,,"Working Days: Everyday
+Days to Report: 
+Negative",urin
+Glucose ,u.Gluc,,"Working Days: Everyday
+Days to Report: 
+Negative",urin
+Ketone,u.Keto,,"Working Days: Everyday
+Days to Report: 
+Negative",urin
+Blood,u.Blood,,"Working Days: Everyday
+Days to Report: 
+Negative",urin
+Nitrite ,u.Nitrite,,"Working Days: Everyday
+Days to Report: 
+Negative",urin
+Bilirubin,u.Bili,,"Working Days: Everyday
+Days to Report: 
+Negative",urin
+Urobilinogen ,u.Urobili,,"Working Days: Everyday
+Days to Report: 
+Negative",urin
+R.B.C ,u-RBC,,"Working Days: Everyday
+Days to Report: 
+<4/hpf",urin
+W.B.C ,u-WBC,,"Working Days: Everyday
+Days to Report: 
+2-5/hpf",urin
+Epithelial Cell ,u.Epit,,"Working Days: Everyday
+Days to Report: 
+Negative",urin
+Bacteria ,u.Bact,,"Working Days: Everyday
+Days to Report: 
+Negative",urin
+Crystals ,u.Crys,,"Working Days: Everyday
+Days to Report: 
+Negative",urin
+Casts ,u.Casts,,"Working Days: Everyday
+Days to Report: 
+Negative",urin
+Yeasts ,u.Yeast,,"Working Days: Everyday
+Days to Report: 
+Negative",urin
+Mucus ,u.Mucus,,"Working Days: Everyday
+Days to Report: 
+Negative",urin
+Others,,,"Working Days: Everyday
+Days to Report: ",urin
+Hemoglobin,Hb,,"Working Days: Everyday
+Days to Report: ",urin
+Starch,,,"Working Days: Everyday
+Days to Report: ",urin
+Sperm,Sperm,,"Working Days: Everyday
+Days to Report: ",urin
+Leukocyte,u.Luc,,"Working Days: Everyday
+Days to Report: ",urin
+Fat Droplets,Fat Dro,,"Working Days: Everyday
+Days to Report: ",urin
+RBC Dysmorphic,,,"Working Days: Everyday
+Days to Report: ",urin
+"Urin Sugar, ( Fasting )",U.sugar,,"Working Days: Everyday
+Days to Report: ",urin
+Chilo micron,,,"Working Days: Everyday
+Days to Report: ",urin
+Renal Cell,,,"Working Days: Everyday
+Days to Report: ",urin
+Clump WBC,,,"Working Days: Everyday
+Days to Report: ",urin
+Clump RBC,,,"Working Days: Everyday
+Days to Report: ",urin
+Transitional EP Cells,,,"Working Days: Everyday
+Days to Report: ",urin
+RBC Dysmorphic,,,"Working Days: Everyday
+Days to Report: ",urin
+Myoglobin,u. Myo,,"Working Days: Everyday
+Days to Report: ",urin
+Glandular Cell,,,"Working Days: Everyday
+Days to Report: ",urin
+Bence Jones Protein ,U.Bence jones,,"Working Days: Everyday
+Days to Report: ",urin
+Urinanalysis,Urin.A,,"Working Days: Everyday
+Days to Report: ",urin
+Urinanalysis,Urin.A,,"Working Days: Everyday
+Days to Report: ",urin
+Prostatic Specific Ag,PSA,ng/ml,"Working Days: Everyday
+Days to Report: 
+0.21-2.19",urin
+Free PSA,s Free.PSA,ng/ml,"Working Days: Everyday
+Days to Report: 
+=<1.3",urin
+Free PSA / Total PSA,,,"Working Days: Everyday
+Days to Report: ",urin
+AFP MOM,,,"Working Days: Everyday
+Days to Report: ",urin
+Hi Risk,,,"Working Days: Everyday
+Days to Report: ",urin
+HE4 ,s HE4,Pmol/L,"Working Days: Everyday
+Days to Report: 
+Premenopausal: up to 70
+Postmenopausal: up to 140
+Men: Not determinded",urin
+Roma Index,s Roma,,"Working Days: Everyday
+Days to Report: ",urin
+Double Marker,Dabele Marker,,"Working Days: Everyday
+Days to Report: ",urin
+Tripel Marcer,Tripel Marker,,"Working Days: Everyday
+Days to Report: ",urin
+Quad Marcer,Coad Marker,,"Working Days: Everyday
+Days to Report: ",urin
+Free Beta,Free Beta,,"Working Days: Everyday
+Days to Report: ",urin
+PAPP-A,PAPP-A,,"Working Days: Everyday
+Days to Report: ",urin
+U E3,UE3,,"Working Days: Everyday
+Days to Report: ",urin
+Inhibin . A,s-Inhibin,pg/ml,"Working Days: Everyday
+Days to Report: 
+F(Fol phase): 5.3-115
+F(Mid cycle): 90-151
+F(Lut phase): 5.9-213
+Postmenopausal: up to 5.24",urin
+A.F.P,A.F.P,,"Working Days: Everyday
+Days to Report: ",urin
+Beta HCG .Titer,Beta Titer,,"Working Days: Everyday
+Days to Report: ",urin
+Free Beta HCG,Free Beta,,"Working Days: Everyday
+Days to Report: ",urin
+feee cortisol 24,Free cortisol24,micg/24hrs,"Working Days: Everyday
+Days to Report: 
+1.5 - 63",urin
+Sars covid 19 (IgG),Coid IgG,,"Working Days: Everyday
+Days to Report: ",urin
+Sars covid 19 (IgM),Coid IgM,,"Working Days: Everyday
+Days to Report: ",urin
+Food Allergens Test,Food Aler,,"Working Days: Everyday
+Days to Report: ",urin
+Anti Histon,s Histon,,"Working Days: Everyday
+Days to Report: ",urin
+Covid-19 Neutralization,Covid Neut,,"Working Days: Everyday
+Days to Report: ",urin
+Leptin,s Leptin,,"Working Days: Everyday
+Days to Report: ",urin
+Panel Reactive Ab (Fellow),s Panel,,"Working Days: Everyday
+Days to Report: ",urin
+Interleukin-6,s IL6,pg/ml,"Working Days: Everyday
+Days to Report: 
+0-7",urin
+HLA B5,c HLA B5,,"Working Days: Everyday
+Days to Report: ",urin
+HLA B27,c HLA B27,,"Working Days: Everyday
+Days to Report: ",urin
+HLA B51,c HLA B51,,"Working Days: Everyday
+Days to Report: ",urin
+HLA B52,c HLA B52,,"Working Days: Everyday
+Days to Report: ",urin
+HLA B8,c HLA B8,,"Working Days: Everyday
+Days to Report: ",urin
+IGG4,s IGG4,,"Working Days: Everyday
+Days to Report: ",urin
+B2-Glycoprotein (IgA),B2IGA,,"Working Days: 
+Days to Report: ",urin
+IL-6,il-6,pg/ml,"Working Days: Everyday
+Days to Report: 
+0-7",urin
+P-ANCA,P-ANCA,AU/ml,"Working Days: Everyday
+Days to Report: 
+Negative:<12
+Borderline:12-18
+Positive:>18",urin
+C-ANCA,C-ANCA,AU/ml,"Working Days: Everyday
+Days to Report: 
+Negative: <12
+Borderline: 12-18
+Positive: >18",urin
+galactommanan,,Index,"Working Days: Everyday
+Days to Report: 
+Up to 0.5",urin
+Anti Acetylcholin Receptor,,,"Working Days: Everyday
+Days to Report: ",urin
+AMA,s AMA,Au/ml,"Working Days: Everyday
+Days to Report: 
+Negative: <12                
+Borderline: 12-18
+Positive:  >18                 ",imun
+Anti Smooth Muscle,s smooth,Titer,"Working Days: Everyday
+Days to Report: 
+Up to 1/10",imun
+Anti ds DNA,DNA,IU/ml,"Working Days: Everyday
+Days to Report: 
+Negative: <100
+Positive: >=100",imun
+Anti RNP,RNP,,"Working Days: Everyday
+Days to Report: ",imun
+ANCA,s ANCA,,"Working Days: Everyday
+Days to Report: ",imun
+Anti Cardiolipin (IgG) ,Cardio G,GPL/ml,"Working Days: Everyday
+Days to Report: 
+Negative:<12.0
+Equivocal:12-18
+Positive:>18.0",imun
+Anti Cardiolipin (IgM),Cardio M,MPL-U/ml,"Working Days: Everyday
+Days to Report: 
+Negative<12.0
+Equivocal:12-18
+Positive:>18.0",imun
+ANA ,ANA ,C.O.I,"Working Days: Everyday
+Days to Report: 
+Negative:  <0.8
+Equivocal:   0.8 <= Index Value <=1.2
+Positive:    >1.2",imun
+FANA,FANA,,"Working Days: Everyday
+Days to Report: ",imun
+Geliadin (IgG),Gliadin G,,"Working Days: Everyday
+Days to Report: ",imun
+Geliadin (IgA) ,Gliadin A,,"Working Days: Everyday
+Days to Report: ",imun
+TTG (IgG)  ,Tissue IgG,AU/ml,"Working Days: 
+Days to Report: 
+Negative <12
+Gray zone 12-18
+Positive >18",imun
+TTG (IgA),Tissue IgA,U/ml,"Working Days: 
+Days to Report: 
+Negative: <12
+Borderline: 12 - 18
+Positive: >18",imun
+Anti Phospholipid (IgG) ,Phoso G,"AU/mL	","Working Days: 
+Days to Report: 
+Negative : up to 12
+Borderline:12-18
+Positive : more than 18",imun
+Anti Phospholipid (IgM) ,Phoso M,"Au/ml	","Working Days: 
+Days to Report: 
+Negative: up to 12
+Borderline: 12-18
+Positive: more than 18",imun
+Endomesial  (IgG),Endomesi G,,"Working Days: Everyday
+Days to Report: ",imun
+Endomesial  (IgA),Endomesi A,,"Working Days: Everyday
+Days to Report: ",imun
+ANCA (C),ANCA(C),AU/ml,"Working Days: Everyday
+Days to Report: 
+Negative:<12
+Borderline:12-18
+Positive:>18",imun
+ANCA (P),ANCA(P),AU/ml,"Working Days: Everyday
+Days to Report: 
+Negative:<12
+Borderline:12-18
+Positive:>18",imun
+IgG (Serum),IgG,mg/dl,"Working Days: 
+Days to Report: 
+500 - 1300",imun
+IgM (Serum),IgM,mg/dl,"Working Days: 
+Days to Report: 
+40-160",imun
+IgA (Serum) ,IgA,mg/dl,"Working Days: 
+Days to Report: 
+41-297",imun
+IgE (Serum) ,IgE,IU/ml,"Working Days: 
+Days to Report: 
+0 - 15",imun
+IgD (Serum),IgD,,"Working Days: Everyday
+Days to Report: ",imun
+Lopus Anti Coagulant  ,p Cit Lopus ,,"Working Days: Everyday
+Days to Report: ",imun
+Anti Listeria (IgG),Lister g,,"Working Days: Everyday
+Days to Report: ",imun
+Anti Listeria (Igm),Lister M,,"Working Days: Everyday
+Days to Report: ",imun
+Anti-TG,Anti-TG,,"Working Days: Everyday
+Days to Report: 0",imun
+B2-Glycoprotein (IgG),s-b2-Glyco igg,AU/ml,"Working Days: 
+Days to Report: 
+Negative:UP to 12
+Borderline:12-18
+Positive:More than 18",imun
+B2-Glycoprotein (IgM),s B2 Glyco igm,AU/ml,"Working Days: 
+Days to Report: 
+Negative:up to 12
+Borderline:12-18
+positive :more then 18",imun
+Anti CCP,s Anti CCP,U/ml,"Working Days: 
+Days to Report: 
+Normal Range <12
+Equivocal Range 12-18
+Positive Result >18",imun
+Anti LKM Ab,s LKMA,Titer,"Working Days: Everyday
+Days to Report: 
+Negative:<15.0
+positive:>=15.0",imun
+Anti Ro (SSA),s Anti SSA,AU/ml,"Working Days: Everyday
+Days to Report: 
+Negative:<12
+Borderline:12-18
+Positive:>18",imun
+Anti LA (SSB),s Anti SSB,Au/ml,"Working Days: Everyday
+Days to Report: 
+Negative:<12
+Borderline:12-18
+Positive:>18",imun
+ASCA,s ASCA,,"Working Days: Everyday
+Days to Report: ",imun
+Anti-Liver Cytosol 1 ,s Anti LC-1,,"Working Days: Everyday
+Days to Report: ",imun
+Anti-Centromer,s Centrome,,"Working Days: Everyday
+Days to Report: ",imun
+Thyroglobulin,thyroglobulin,,"Working Days: Everyday
+Days to Report: ",imun
+Anti-Scl-70 ,s Scl-70,,"Working Days: Everyday
+Days to Report: ",imun
+GBM Ab,s Anti-GBM,,"Working Days: Everyday
+Days to Report: ",imun
+Immono Electerophoresis Serum,s Immono EP,,"Working Days: Everyday
+Days to Report: ",imun
+Immono Electerophoresis Urine,u24 h Immono EP,,"Working Days: Everyday
+Days to Report: ",imun
+Hpylori Ag Stool ,Stool HP,Index,"Working Days: Everyday
+Days to Report: 
+Negative : <0.9
+Equivocal : 0.9-1.1
+Positive : >1.1",imun
+Giardia Ag,Giar Ag,,"Working Days: Everyday
+Days to Report: ",imun
+Sudan Black,Sudan Black,,"Working Days: Everyday
+Days to Report: ",imun
+Calprotectin in Stool,Calprotectin,micg/g,"Working Days: Everyday
+Days to Report: 
+Normal : up to 50
+Mild organic inflammation : 50 - 200
+Active organic disease : >200",imun
+Fecal Immonue ChemicalOB,Im Ch OB,,"Working Days: Everyday
+Days to Report: ",imun
+Anti-Jo-1,s Jo-1,,"Working Days: Everyday
+Days to Report: ",imun
+Anti Smith Ab ,s-Smith Ab ,,"Working Days: Everyday
+Days to Report: ",imun
+C1 Inhibitor,s-C1 Inhib,,"Working Days: Everyday
+Days to Report: ",imun
+Anti-Brucella (IgG),s-brucella G,Index,"Working Days: Everyday
+Days to Report: 
+Negative :up to 9.0
+Borderline :9.0 -11
+Positive :more than 11",imun
+Anti-Brucella (IgM),s-brucella M,Index,"Working Days: Everyday
+Days to Report: 
+Negative :up to 9.0
+Borderline :9.0 -11
+Positive :more than 11",imun
+C1q,C1q,,"Working Days: Everyday
+Days to Report: ",imun
+Neuro Myelitis Optica Ab.,s-NMO,,"Working Days: Everyday
+Days to Report: ",imun
+Hydatic Ab,s-Hydatic Ab,,"Working Days: Everyday
+Days to Report: ",imun
+M2 PK in Stool,Stool M2 PK,,"Working Days: Everyday
+Days to Report: ",imun
+Anti MOG Ab,MOG,,"Working Days: Everyday
+Days to Report: ",imun
+Sars covid 19 (IgG),Coid IgG,,"Working Days: Everyday
+Days to Report: ",imun
+Sars covid 19 (IgM),Coid IgM,,"Working Days: Everyday
+Days to Report: ",imun
+Food Allergens Test,Food Aler,,"Working Days: Everyday
+Days to Report: ",imun
+Anti Histon,s Histon,,"Working Days: Everyday
+Days to Report: ",imun
+Covid-19 Neutralization,Covid Neut,,"Working Days: Everyday
+Days to Report: ",imun
+Leptin,s Leptin,,"Working Days: Everyday
+Days to Report: ",imun
+Panel Reactive Ab (Fellow),s Panel,,"Working Days: Everyday
+Days to Report: ",imun
+Interleukin-6,s IL6,pg/ml,"Working Days: Everyday
+Days to Report: 
+0-7",imun
+HLA B5,c HLA B5,,"Working Days: Everyday
+Days to Report: ",imun
+HLA B27,c HLA B27,,"Working Days: Everyday
+Days to Report: ",imun
+HLA B51,c HLA B51,,"Working Days: Everyday
+Days to Report: ",imun
+HLA B52,c HLA B52,,"Working Days: Everyday
+Days to Report: ",imun
+HLA B8,c HLA B8,,"Working Days: Everyday
+Days to Report: ",imun
+IGG4,s IGG4,,"Working Days: Everyday
+Days to Report: ",imun
+B2-Glycoprotein (IgA),B2IGA,,"Working Days: 
+Days to Report: ",imun
+IL-6,il-6,pg/ml,"Working Days: Everyday
+Days to Report: 
+0-7",imun
+P-ANCA,P-ANCA,AU/ml,"Working Days: Everyday
+Days to Report: 
+Negative:<12
+Borderline:12-18
+Positive:>18",imun
+C-ANCA,C-ANCA,AU/ml,"Working Days: Everyday
+Days to Report: 
+Negative: <12
+Borderline: 12-18
+Positive: >18",imun
+galactommanan,,Index,"Working Days: Everyday
+Days to Report: 
+Up to 0.5",imun
+Anti Acetylcholin Receptor,,,"Working Days: Everyday
+Days to Report: ",imun
+Fasting Blood Sugar (FBS),FBS,mg/dl,"Working Days: 
+Days to Report: 4
+>60 Years:80-115
+Pre diabetic:101-125
+Diabetic:>=126
+GDM:>92",bioch
+Glucose 1hrs pp,1h  pp,,"Working Days: Everyday
+Days to Report: ",bioch
+Glucose 2hrs pp,2h  pp ,,"Working Days: Everyday
+Days to Report: ",bioch
+GCT Blood Sugar (1h) 50g,GCT 50g,,"Working Days: Everyday
+Days to Report: ",bioch
+GTT Blood Sugar (2hr) 75 g,GTT 75 gr 2h,,"Working Days: Everyday
+Days to Report: ",bioch
+ca,GTT 100 gr 2h,,"Working Days: Everyday
+Days to Report: ",bioch
+Glucose 2h after Lunch,Glu 2 lunch,,"Working Days: Everyday
+Days to Report: ",bioch
+Glucose 2 after Dinner,Glu 2 Diner,,"Working Days: Everyday
+Days to Report: ",bioch
+Glucose 5 PM ,BS 5 PM,,"Working Days: Everyday
+Days to Report: ",bioch
+Blood Urea,Urea,mg/dl,"Working Days: 
+Days to Report: 4",bioch
+BUN,BUN,,"Working Days: Everyday
+Days to Report: ",bioch
+Creatinine / Urine,Cr/U,,"Working Days: Everyday
+Days to Report: ",bioch
+Creatinine,Cr,mg/dl,"Working Days: 
+Days to Report: 4
+0.4-1.5",bioch
+Uric Acid ,U.Acid,,"Working Days: 
+Days to Report: 4",bioch
+Cholesterol ,Chol,mg/dl,"Working Days: 
+Days to Report: 4
+normal range:<200
+warning range:200-240
+abnormal range:>240",bioch
+Triglyceride ,TG,mg/dl,"Working Days: 
+Days to Report: 4
+normal :<150
+borderline:150-200
+high:200-500
+very high>500",bioch
+HDL ,HDL,mg/dl,"Working Days: 
+Days to Report: 4
+high risk<40
+low risk>=60",bioch
+LDL/HDL Ratio ,LDL/HDL,,"Working Days: Everyday
+Days to Report: ",bioch
+Cholesterol/HDL Ratio ,Chol/HDL,,"Working Days: Everyday
+Days to Report: ",bioch
+VLDL,VLDL,,"Working Days: Everyday
+Days to Report: ",bioch
+LDL,LDL,mg/dl,"Working Days: 
+Days to Report: 4
+optimal:<100
+Near optimal:100-129
+Borderline:130-159
+High:160-189
+Very high:>190",bioch
+Albumin Serum,Alb,,"Working Days: Everyday
+Days to Report: ",bioch
+Total Protein,Prot T,,"Working Days: Everyday
+Days to Report: ",bioch
+Globulin,Glob,,"Working Days: Everyday
+Days to Report: ",bioch
+Bilirubin (Total) ,T Bili,mg/dl,"Working Days: 
+Days to Report: 4
+0.1-1.2",bioch
+Bilirubin (Direct),D Bili,mg/dl,"Working Days: 
+Days to Report: 4
+Up to 0.3",bioch
+Bilirubin (Indirect)  ,Ind Bili,,"Working Days: Everyday
+Days to Report: ",bioch
+Blood Sugar ,B.S,,"Working Days: Everyday
+Days to Report: ",bioch
+SGOT (AST),SGOT,U/L,"Working Days: 
+Days to Report: 4
+ Male:<37
+Female:<31",bioch
+SGPT (ALT) ,SGPT,,"Working Days: 
+Days to Report: 4",bioch
+Alkaline Phosphatase,AlkP,,"Working Days: 
+Days to Report: 4",bioch
+Acid Phosphatase (Total),s Acid Pho T,,"Working Days: Everyday
+Days to Report: ",bioch
+Acid Phosphatase (Prostatic) ,s Acid Pho P,,"Working Days: Everyday
+Days to Report: ",bioch
+Myoglobin,s Myoglobi,,"Working Days: Everyday
+Days to Report: ",bioch
+LDH,LDH,,"Working Days: 
+Days to Report: 4",bioch
+CPK,CPK,U/L,"Working Days: 
+Days to Report: 4
+Woman 24-170
+Men 24-195
+New born 468-1200
+<= 5 days 195-700
+<6 Month 41-350
+>6 Month 24-229",bioch
+Amylase,Amylase,,"Working Days: Everyday
+Days to Report: ",bioch
+Aldolase ,Aldolase,,"Working Days: Everyday
+Days to Report: ",bioch
+Lipase ,Lipase,,"Working Days: Everyday
+Days to Report: ",bioch
+Ca ,Ca,mg/dl,"Working Days: 
+Days to Report: 4
+8.6-10.3",bioch
+P (Phosphorous),P,mg/dl,"Working Days: 
+Days to Report: 4
+2.6-4.5",bioch
+Na (Sodium),Na,mEq/L,"Working Days: 
+Days to Report: 4
+135-145",bioch
+K (Potassium),K,mEq/L,"Working Days: Everyday
+Days to Report: 
+3.5-5.5",bioch
+Pb (Lead),c Pb,micg/dl,"Working Days: Everyday
+Days to Report: 
+Normal:<10",bioch
+Fe (Iron),Fe,micgr/dl,"Working Days: 
+Days to Report: 4
+40-120",bioch
+TIBC,TIBC,,"Working Days: 
+Days to Report: 4",bioch
+Per-Albumin,Per-Alb,,"Working Days: Everyday
+Days to Report: ",bioch
+G.6.P.D,c G6PD,,"Working Days: Everyday
+Days to Report: ",bioch
+Homocysteine ,sHomocysteine,micmol/l,"Working Days: Everyday
+Days to Report: ",bioch
+Gamma-Glutamyl Transf ,sGGT,"U/L	","Working Days: Everyday
+Days to Report: ",bioch
+Li (Lithium),sLit,mEq/L,"Working Days: Everyday
+Days to Report: 
+Therapatic renge:0.5-1.5",bioch
+Hb A1c,HbA1c,%,"Working Days: Everyday
+Days to Report: 
+Normal < 6
+Prediabetic 6 - 6.4
+Diabetic > 6.4
+              Good Control 6.4 - 7
+              Fair   Control 7 - 9.5
+              Poor  Control > 9.5",bioch
+eAG,eAG,,"Working Days: Everyday
+Days to Report: ",bioch
+Folic Acid ,s Folic Acid,ng/ml,"Working Days: Everyday
+Days to Report: 
+Elevated: >20
+Normal Range: 6 - 20
+Possible Deficiency: 4 - 5.9
+Deficiency: <4",bioch
+C-peptide,C-pep,ng/ml,"Working Days: Everyday
+Days to Report: 
+1.1-4.4",bioch
+Insulin,Insulin,micIU/ml,"Working Days: Everyday
+Days to Report: 
+<25",bioch
+Mg,s Mg,mg/dl,"Working Days: Everyday
+Days to Report: 
+1.8 - 2.6",bioch
+Mg ,Mg,,"Working Days: 
+Days to Report: 4",bioch
+Zinc,s ZN,,"Working Days: Everyday
+Days to Report: ",bioch
+Copper,s Copper,ug/dl,"Working Days: Everyday
+Days to Report: 
+80-155",bioch
+Ceruloplasmin ,sCeruloplas,,"Working Days: Everyday
+Days to Report: ",bioch
+CPK MB,s CPK MB,,"Working Days: 
+Days to Report: 4",bioch
+GTT Tolerance Test (75 g),GTT 75g,,"Working Days: Everyday
+Days to Report: ",bioch
+GTT Blood Sugar (Fasting),GTT BF,,"Working Days: Everyday
+Days to Report: ",bioch
+GTT Blood Sugar (1 hr),GTT B (1hr),,"Working Days: Everyday
+Days to Report: ",bioch
+GTT Blood Sugar (2 hr ),GTT B (2hr),,"Working Days: Everyday
+Days to Report: ",bioch
+GTT Tolerance Test Pragnant (100 g),GTT Preg 100 g,,"Working Days: Everyday
+Days to Report: ",bioch
+GTT Blood Sugar (Fasting),GTT BF,,"Working Days: Everyday
+Days to Report: ",bioch
+GTT Blood Sugar (1 hr),GTT B (1 hr),,"Working Days: Everyday
+Days to Report: ",bioch
+GTT Blood Sugar (2 hr),GTT B (2 hr),,"Working Days: Everyday
+Days to Report: ",bioch
+GTT Blood Sugar (3 hr),GTT B (3 hr),,"Working Days: Everyday
+Days to Report: ",bioch
+F,s Apo-A,,"Working Days: Everyday
+Days to Report: ",bioch
+Apolipoprotein-A,s Apo-A,,"Working Days: Everyday
+Days to Report: ",bioch
+Transferine,sTransfer,mg/dl,"Working Days: Everyday
+Days to Report: 
+200-360",bioch
+Transferine Saturation,s Trans Satu,,"Working Days: Everyday
+Days to Report: ",bioch
+Apolipoprotein-B,s Apo-B,,"Working Days: Everyday
+Days to Report: ",bioch
+Apolipoprotein-B,s Apo-B,,"Working Days: Everyday
+Days to Report: ",bioch
+Cl (Chloride),s Cl,mmol/L,"Working Days: Everyday
+Days to Report: 
+95-115",bioch
+Troponin I,s Troponin I,ng/ml,"Working Days: Everyday
+Days to Report: 
+0-0.6",bioch
+Haptoglobin,s Haptoglobin,,"Working Days: Everyday
+Days to Report: ",bioch
+Serum Protein Electrophoresis  ,s Protein EP,,"Working Days: Everyday
+Days to Report: ",bioch
+Albumin,Albumin,,"Working Days: Everyday
+Days to Report: ",bioch
+Alpha 1,A1 Glob,,"Working Days: Everyday
+Days to Report: ",bioch
+Alpha 2,A2 Glob,,"Working Days: Everyday
+Days to Report: ",bioch
+Beta 1,Beta Glob,,"Working Days: Everyday
+Days to Report: ",bioch
+Beta 2 ,Beta Glob,,"Working Days: Everyday
+Days to Report: ",bioch
+Gamma ,Gamma Glob,,"Working Days: Everyday
+Days to Report: ",bioch
+Vitamin B12 ,B12,pg/ml,"Working Days: Everyday
+Days to Report: 
+197-771",bioch
+Digoxin ,s Digoxin,,"Working Days: Everyday
+Days to Report: ",bioch
+Ammoniac,s Ammon,µg/dL,"Working Days: 
+Days to Report: 
+170 - 341",bioch
+Lactate,p edta Lact,mg/dl,"Working Days: 
+Days to Report: 
+4.5-19.8",bioch
+Glucose PM,,,"Working Days: Everyday
+Days to Report: ",bioch
+GFR,GFR,,"Working Days: Everyday
+Days to Report: ",bioch
+Cyclosporine ,c Cyclospo,,"Working Days: Everyday
+Days to Report: ",bioch
+Phenylalanine-Plasma ,P edta Pheny,,"Working Days: Everyday
+Days to Report: ",bioch
+Serotonin,sSeroto,,"Working Days: Everyday
+Days to Report: ",bioch
+Serum Amino Acid,s Amino Acid,,"Working Days: Everyday
+Days to Report: ",bioch
+Valproate Sodium,s Na Val,,"Working Days: Everyday
+Days to Report: ",bioch
+Carbamazepin,s Carmapa,,"Working Days: Everyday
+Days to Report: ",bioch
+Gabapentin,s Gaba,,"Working Days: Everyday
+Days to Report: ",bioch
+Phenobarbital,s Phenobar,micg/ml,"Working Days: Everyday
+Days to Report: 
+15-40",bioch
+Lamotrigine,s Lamo,,"Working Days: Everyday
+Days to Report: ",bioch
+Levetiracetam,s Leveti,,"Working Days: Everyday
+Days to Report: ",bioch
+Phenytoin  ,s Phenytoin,micg/ml,"Working Days: Everyday
+Days to Report: 
+10-20",bioch
+Topiramate,s Topiramate,,"Working Days: Everyday
+Days to Report: ",bioch
+Metanephrines Plasma,P Edta Metaneph,,"Working Days: Everyday
+Days to Report: ",bioch
+Nor Metanephrines Plasma,P Edta normeta,,"Working Days: Everyday
+Days to Report: ",bioch
+Vitamin E,Vit E,,"Working Days: Everyday
+Days to Report: ",bioch
+Vitamin A,Vit A,,"Working Days: Everyday
+Days to Report: ",bioch
+Vitamin C,Vit C,,"Working Days: Everyday
+Days to Report: ",bioch
+Vitamin B6,Vit B6,,"Working Days: Everyday
+Days to Report: ",bioch
+VBG,VBG,,"Working Days: Everyday
+Days to Report: ",bioch
+PH,,,"Working Days: Everyday
+Days to Report: ",bioch
+PCO2,,,"Working Days: Everyday
+Days to Report: ",bioch
+po2,,,"Working Days: Everyday
+Days to Report: ",bioch
+HCO3,,,"Working Days: Everyday
+Days to Report: ",bioch
+BEecf,,,"Working Days: Everyday
+Days to Report: ",bioch
+BE,,,"Working Days: Everyday
+Days to Report: ",bioch
+O2sat,,,"Working Days: Everyday
+Days to Report: ",bioch
+Ionized Calcium(Ca++),s Cal Ionized,,"Working Days: Everyday
+Days to Report: ",bioch
+HOMA IR,,,"Working Days: Everyday
+Days to Report: ",bioch
+BS 6 AM,bs 6 am,,"Working Days: Everyday
+Days to Report: ",bioch
+BS 8 AM,bs 8 am,,"Working Days: Everyday
+Days to Report: ",bioch
+BS 11 AM,bs 11 am,,"Working Days: Everyday
+Days to Report: ",bioch
+BS 4 PM,bs 4 pm,,"Working Days: Everyday
+Days to Report: ",bioch
+BS 6 PM,bs 6 pm,,"Working Days: Everyday
+Days to Report: ",bioch
+BS 8 PM,bs 8 pm,,"Working Days: Everyday
+Days to Report: ",bioch
+BS 9 PM,bs 9 pm,,"Working Days: Everyday
+Days to Report: ",bioch
+BS 12 PM,bs 12 pm,,"Working Days: Everyday
+Days to Report: ",bioch
+BUN,,,"Working Days: Everyday
+Days to Report: ",bioch
+Ferritin,Fe,micgr/L,"Working Days: 
+Days to Report: 4
+18.2 - 341.2",bioch
+NT-PRO-BNP,NT-Pro-BNP,pg/ml,"Working Days: Everyday
+Days to Report: 
+0-98",bioch
+Pyrovate,pyrovate,mg/dL,"Working Days: Everyday
+Days to Report: 
+0.2-0.9",bioch
+Lipoprotein a,LPa,,"Working Days: Everyday
+Days to Report: ",bioch
+HDL Cholesterol,Chol-HDL,mg/dl,"Working Days: Everyday
+Days to Report: 
+35-60",bioch
+LDL Cholesterol,Chol-LDL,mg/dl,"Working Days: Everyday
+Days to Report: 
+Normal <100
+Borderline 100-140
+High >140",bioch
+ADA,Adenosindeamina,IU/L,"Working Days: Everyday
+Days to Report: 
+Csf:up to 9.0
+Pleural: up to 30
+Other fluids:up to 30",bioch
+Blood Amino Acids(HPLC),B.A.A.(HPLC),,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Sugar chromatography,Urine (HPLC),-,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Volume (24h) ,24uVolume,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Volume(12h) ,12uVolume,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine MicroAlbumin(24h),24uMicroAlb,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine MicroAlbumin(12h),12uMic,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Creatinine (12h),12u Creat,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Creatinine (24h),24u Crea,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Urea (24h),24u Urea,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Urobilinogen (24h),24u Urobi,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Protein (24h),24u Prot,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Protein (12h),12u Prot,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Uric Acid (24h),24uUricAc,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Amylase (24h) ,24uAmylase,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Calcium (24h),24uCa,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Phosphorus (24h) ,24u-Phos,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Potassium (24h),24uK,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Sodium (24h),24uNa,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Chloride (24h),24u Cl,,"Working Days: Everyday
+Days to Report: ",bioch
+17- Ketosteroids (24h) ,24u17KETO,,"Working Days: Everyday
+Days to Report: ",bioch
+17-OH Steroids (24h) ,24u17OH.S,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine VMA (24h),24uVMA,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine 5OH Indole Acetic Acid (24h),24u5HIAA,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Oxalate (24h),24u-Oxalate,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Cystine (24h),24u-Cystin,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Normetanephrine(24h),24u-Normeta,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Metanephrine (24h),24u MetNep,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Citrate (24h),24uCitrat ,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Catecolamin (24h),catecola 24 h,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Magnesium (24h),24u Mg,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Specific Gravity (24h),24uSG,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Sugar (24h),24u Sugar,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Copper (24h),24u Copper ,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Ceruloplasmin (24h),24u Cerulopla,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine PH (24h),24u PH ,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Blood (24h),24u Blood,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Nitrit (24h),24u nitrit,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Epinephrine (24h),24h Epineph,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Nor Epinephrine (24h),24 h Nor epine,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Adrenalin (24h),24 h Adre,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Nor Adrenalin (24h),24 h noradr,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Chloride,R.U.Cl,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Calcium,R.U.Ca,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Oxlate,R.U.Ox ,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Phosphorus,R.U.Phos,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Urea,R.U.Urea,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Copper,R.U.Copper,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Creatinin,R.U.Crea,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Sodium,R.U.Na,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Potasium,R.U.K,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Uric Acid,R.U.U.Acid,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Amylase,R.U.Amylase,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Citrate,R.U.Citrat,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Cystine,R.U. Cystine,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Protein,R.U. Prot,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Magnesium,R.U.Mg,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Urine Homocystein ,R.U.Homocys,,"Working Days: Everyday
+Days to Report: ",bioch
+Random Myoglobin,u Myoglo,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Microalbumin,R.U. MicroAlb,mg/L,"Working Days: Everyday
+Days to Report: 
+Normal:<20
+Micro albumin uria:20-200
+Macro albumin uria:>200",bioch
+ACR,ACR,,"Working Days: Everyday
+Days to Report: ",bioch
+Calculi Analysis,Cal-Analys,,"Working Days: Everyday
+Days to Report: ",bioch
+Source of Calculi ,,,"Working Days: Everyday
+Days to Report: ",bioch
+Pieces  of Calculi ,,,"Working Days: Everyday
+Days to Report: ",bioch
+Weight ,,,"Working Days: Everyday
+Days to Report: ",bioch
+Size ,,,"Working Days: Everyday
+Days to Report: ",bioch
+Shape ,,,"Working Days: Everyday
+Days to Report: ",bioch
+Color,,,"Working Days: Everyday
+Days to Report: ",bioch
+Surface Appearance ,,,"Working Days: Everyday
+Days to Report: ",bioch
+Consistency ,,,"Working Days: Everyday
+Days to Report: ",bioch
+Chemical Analysis ,,,"Working Days: Everyday
+Days to Report: ",bioch
+Calcium :,,,"Working Days: Everyday
+Days to Report: ",bioch
+Oxalate :,,,"Working Days: Everyday
+Days to Report: ",bioch
+Ammoniom :,,,"Working Days: Everyday
+Days to Report: ",bioch
+Uric Acid :,,,"Working Days: Everyday
+Days to Report: ",bioch
+Phosphate :,,,"Working Days: Everyday
+Days to Report: ",bioch
+Magnesium :,,,"Working Days: Everyday
+Days to Report: ",bioch
+Cystine :,,,"Working Days: Everyday
+Days to Report: ",bioch
+CO2:,,,"Working Days: Everyday
+Days to Report: ",bioch
+TLC-For Amino Acid & Suger Urine,TLCادرار صبحگاه,,"Working Days: Everyday
+Days to Report: ",bioch
+"Nitroproside , Urine",Nitropro,,"Working Days: Everyday
+Days to Report: ",bioch
+Protein Electrophoresis Urine,24 u Pro EP,,"Working Days: Everyday
+Days to Report: ",bioch
+Beta2-Microglobulin,,,"Working Days: Everyday
+Days to Report: ",bioch
+Hemoglobin,,,"Working Days: Everyday
+Days to Report: ",bioch
+Free Light Chains,,,"Working Days: Everyday
+Days to Report: ",bioch
+Alpha 1-Microglobulin,,,"Working Days: Everyday
+Days to Report: ",bioch
+Free Light Chains Dimers,,,"Working Days: Everyday
+Days to Report: ",bioch
+Albumin,,,"Working Days: Everyday
+Days to Report: ",bioch
+Transferrin,,,"Working Days: Everyday
+Days to Report: ",bioch
+Tammhorsfall,,,"Working Days: Everyday
+Days to Report: ",bioch
+IgG/IgA,,,"Working Days: Everyday
+Days to Report: ",bioch
+IgM/Alpha2-Mac.,,,"Working Days: Everyday
+Days to Report: ",bioch
+N-Acetil Glucose Amin Urine,R.U. NAG,,"Working Days: Everyday
+Days to Report: ",bioch
+NGAL,R.U.NGAL,,"Working Days: Everyday
+Days to Report: ",bioch
+Urine Amino Acid,R.U. Amino acid,,"Working Days: Everyday
+Days to Report: ",bioch
+Phenyl alanine Urine,Phenyl U,,"Working Days: Everyday
+Days to Report: ",bioch
+Reducing Substances ,u-Reducing,Qual,"Working Days: Everyday
+Days to Report: 
+Negative",bioch
+PKU,u PKU,,"Working Days: Everyday
+Days to Report: ",bioch
+CSF- Glucose ,csf-Glucos,,"Working Days: Everyday
+Days to Report: ",bioch
+CSF-Protein,csf-Protei,,"Working Days: Everyday
+Days to Report: ",bioch
+CSF-GammaGlobulins,csf-GammaG,,"Working Days: Everyday
+Days to Report: ",bioch
+CSF-Albumin ,csf-Albumi,,"Working Days: Everyday
+Days to Report: ",bioch
+CSF-A/G Ratio,csf-A/G,,"Working Days: Everyday
+Days to Report: ",bioch
+CSF-Na,csf-Na,,"Working Days: Everyday
+Days to Report: ",bioch
+CSF-K ,csf-K,,"Working Days: Everyday
+Days to Report: ",bioch
+CSF-Chloride,csf-Cl,,"Working Days: Everyday
+Days to Report: ",bioch
+CSF-LDH ,csf-LDH,,"Working Days: Everyday
+Days to Report: ",bioch
+CSF-CPK ,csf-CPK,,"Working Days: Everyday
+Days to Report: ",bioch
+CSF-Osmolality ,csf-Osmola,,"Working Days: Everyday
+Days to Report: ",bioch
+Synovial Glucose,syn-Glucos,,"Working Days: Everyday
+Days to Report: ",bioch
+Synovial Protein  ,syn-Protei,,"Working Days: Everyday
+Days to Report: ",bioch
+Synovial Albumin ,syn-Albumi,,"Working Days: Everyday
+Days to Report: ",bioch
+Synovial LDH ,syn-LDH,,"Working Days: Everyday
+Days to Report: ",bioch
+Synovial Na ,syn-Na,,"Working Days: Everyday
+Days to Report: ",bioch
+Synovial K,syn-K,,"Working Days: Everyday
+Days to Report: ",bioch
+Synovial Chloride ,syn-Cl,,"Working Days: Everyday
+Days to Report: ",bioch
+Synovial Osmolality ,syn-Osmolali,,"Working Days: Everyday
+Days to Report: ",bioch
+Pleural-Glucose ,ple-Glucos,,"Working Days: Everyday
+Days to Report: ",bioch
+Pleural-Protein ,ple-Protei,,"Working Days: Everyday
+Days to Report: ",bioch
+Pleural-Albumin ,ple-Albumi,,"Working Days: Everyday
+Days to Report: ",bioch
+Pleural-LDH,ple-LDH,,"Working Days: Everyday
+Days to Report: ",bioch
+Pleural-Na ,ple-Na,,"Working Days: Everyday
+Days to Report: ",bioch
+Pleural-K,ple-K,,"Working Days: Everyday
+Days to Report: ",bioch
+Pleural-Chloride ,ple-Cl,,"Working Days: Everyday
+Days to Report: ",bioch
+Pleural-Osmolality ,ple-Osmolal,,"Working Days: Everyday
+Days to Report: ",bioch
+Pericardial-Glucose ,per-Glucos,,"Working Days: Everyday
+Days to Report: ",bioch
+Pericardial-Protein ,per-Protei,,"Working Days: Everyday
+Days to Report: ",bioch
+Perciardial-Albumin ,per-Albumin,,"Working Days: Everyday
+Days to Report: ",bioch
+Pericardial-LDH ,per-LDH,,"Working Days: Everyday
+Days to Report: ",bioch
+Pericardial-Na,per-Na,,"Working Days: Everyday
+Days to Report: ",bioch
+Pericardial-K,per-K,,"Working Days: Everyday
+Days to Report: ",bioch
+Pericardial-Chloride,per-Cl,,"Working Days: Everyday
+Days to Report: ",bioch
+Pericardial-Osmolality,per-Osmola,,"Working Days: Everyday
+Days to Report: ",bioch
+Ascitic-Glucose,ascit-Glucos,,"Working Days: Everyday
+Days to Report: ",bioch
+Ascitic-Protein ,ascit-Protei,,"Working Days: Everyday
+Days to Report: ",bioch
+Ascitic-Albumin,ascit-Albumi,,"Working Days: Everyday
+Days to Report: ",bioch
+Ascitic-LDH,ascit-LDH,,"Working Days: Everyday
+Days to Report: ",bioch
+Ascitic-Na,ascit-Na,,"Working Days: Everyday
+Days to Report: ",bioch
+Ascitic-K ,ascit-K,,"Working Days: Everyday
+Days to Report: ",bioch
+Ascitic-Chloride,ascit-Cl,,"Working Days: Everyday
+Days to Report: ",bioch
+Asitic-Osmolality ,ascit-Osmola,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(NSE),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(P16),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(P53),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(P63),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(Pan CK(AE1/AE3)),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(PAX-5),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(PAX-8),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(PC),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(PDL1),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(Placental alkaline phosphatase),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(PMS2),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(PR-Progestrone Receptor),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(PSA),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(Racemase),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(S100),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(Smooth Muscle Actin SMA),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(TdT),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(Thyroglobulin),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(TTF-1),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(Vimentin),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(WT1),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(CD31),,,"Working Days: Everyday
+Days to Report: ",bioch
+IHC-SERIAL,,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي(D2-40),,,"Working Days: Everyday
+Days to Report: ",bioch
+ايمونوهيستوشيمي آنتي بادي,,,"Working Days: Everyday
+Days to Report: ",bioch
+Pathology 1,,,"Working Days: Everyday
+Days to Report: ",patho
+Pathology 2,,,"Working Days: Everyday
+Days to Report: ",patho
+جفت . به جز سه ماهه سوم(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+Pathology 4,,,"Working Days: Everyday
+Days to Report: ",patho
+وولوا.رزکسيون توتال/ساب توتال(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+مشاوره و گزارش مواردي كه نياز به تهيه لام دارند,,,"Working Days: Everyday
+Days to Report: ",patho
+مشاوره و گزارش لام تهيه شده در جاي ديگر,,,"Working Days: Everyday
+Days to Report: ",patho
+"رنگ‌آميزي اختصاصي، گروه 2 رنگ آميزي‌هاي ديگر ",,,"Working Days: Everyday
+Days to Report: ",patho
+عمل دي كلسيفيكاسيون ,,,"Working Days: Everyday
+Days to Report: ",patho
+آسپيراسيون مغز استخوان ,,,"Working Days: Everyday
+Days to Report: ",patho
+بررسي ميکروسکوپي نمونه هاي بيوپسي,,,"Working Days: Everyday
+Days to Report: ",patho
+NIPPLE CYTOLOGY,,,"Working Days: Everyday
+Days to Report: ",patho
+Fluid sample ,,,"Working Days: Everyday
+Days to Report: ",patho
+Liquid Based Cytology ,,,"Working Days: Everyday
+Days to Report: 4",patho
+FNA CYTOLOGY Thyroid,,,"Working Days: Everyday
+Days to Report: ",patho
+Urine Cytology,,,"Working Days: Everyday
+Days to Report: ",patho
+FROZEN,,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي آنتي بادي-پستان,,,"Working Days: Everyday
+Days to Report: ",patho
+Pap Smear,Pap.s,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي آنتي بادي-پستان,,,"Working Days: Everyday
+Days to Report: ",patho
+پستان.بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+پستان.ماموپلاستي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+برونش.بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+سرويکس .بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+کولون .بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+دئودونوم.بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+آندوسرويکس .کورتاژ/بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+آندومتر.کورتاژ/بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+مري .بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+لوله فالوپ . حاملگي نابجاويا تشخيصي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+سرفمور .شکستگي (سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+انگشتان دست /پا آمپوتاسيون.غيرتروماتيک(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+لثه /مخاط دهان .بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+دريچه قلب(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+مفصل /رزکسيون(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+حنجره .بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+لب .رزکسيون گوه اي(وج(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+ريه .بيوپسي ترانس برونشيال(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+مخاط بيني .بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+نازوفارکس/اوروفارنکس.بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+ادنتوژنتيک /دنتال سيست(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+امنتوم (چادرينه ).بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+تخمدان همراه يا بدون لوله.غيرنئوپلاستيک(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+ تخمدان .بيوپسي /رزکسيون گوه اي (سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+غده پاراتيروئيد(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+پريتوان (صفاق )بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+تومورهيپوفيز(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+پلور /پريکارد-بيوپسي /بافت(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+پوليپ. سرويکال /آندومتريال(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+پوليپ معده /روده کوچک(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+پروستات. بيوپسي سوزني(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+پروستات . تي يوآر(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+غده بزاقي  بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+سينوس.پارانازال بيوپسي (سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+روده کوچک /بيوپسي (سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+بافت نرم بجزتومور/توده /ليپوم/دبريدمان(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+طحال(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+معده .بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+سينوويوم(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+بيضه بجزتومور/بيوپسي /اخته کردن(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+مجراي تيروگلوس/کيست شکاف برانکيال(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+زبان.بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+لوزه .بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+ناي .تراشه.بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+حالب .بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+اورترا(مجراي ادرار).بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+مثانه.بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+واژن .بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+وولوا/لابيا .بيوپسي(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+چشم . انوکليشن(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+( ريه .بيوپسي گوه اي (وج(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+ميوکارد.بيوپسي (سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+تومورادونتوژنيک(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+تخمدان با يا بدون لوله.نئوپلاستيک(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+پانکراس بيوپسي (سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+جفت سه ماهه سوم(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+پروستات. به جزرزکسيون راديکال (سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+غده بزاقي (سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+روده کوچک رزکسيون بجز تومور(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+توده بافت نرم(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+تيروئيد.توتال /لوب(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+حالب .رزکسيون(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+مثانه .تي يو آر(سطح 4),,,"Working Days: Everyday
+Days to Report: ",patho
+لوله فالوپ .عقيم سازي (سطح 2),,,"Working Days: Everyday
+Days to Report: ",patho
+انگشتان دست /پا.آمپوتاسيون.تروماتيک(سطح 2),,,"Working Days: Everyday
+Days to Report: ",patho
+فوراکسين( پره پونس ).نوزاد(سطح 2),,,"Working Days: Everyday
+Days to Report: ",patho
+سلم فتق.درمحل(سطح 2),,,"Working Days: Everyday
+Days to Report: ",patho
+ساک هيدروسل(سطح 2),,,"Working Days: Everyday
+Days to Report: ",patho
+پوست .ترميم پلاستيک(سطح 2),,,"Working Days: Everyday
+Days to Report: ",patho
+گانگليون سمپاتيک(سطح 2),,,"Working Days: Everyday
+Days to Report: ",patho
+بيضه ها.اخته کردن( کاستراسيون(سطح 2),,,"Working Days: Everyday
+Days to Report: ",patho
+مخاط واژن.تصادف(سطح 2),,,"Working Days: Everyday
+Days to Report: ",patho
+وازدفران .عقيم سازي (سطح 2),,,"Working Days: Everyday
+Days to Report: ",patho
+Pathology 3,,,"Working Days: Everyday
+Days to Report: ",patho
+سقط القايي(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+آبسه(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+آنوريسم -شرياني /بطني (سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+تگ( زائده )آنوس (مقعد(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+آپانديس(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+شريان .پلاک آتروماتوس(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+کيست غددبارتولن(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+بورسا.کيست(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+بافت کارپال تانل(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+غضروف .تراشيدن(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+کلسته آتوما(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+ملتحمه .بيوپسي(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+قرنيه(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+بافت کانترکچردوپوئيترين(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+سرفمور.بجزشکستگي(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+شقاق (فيستور)/فيستول(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+فورسکين( پره پوس).بجز نوزاد(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+کيسه صفرا(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+گانکليون کيست(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+هماتوم(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+هموروئيد(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+هيداتيدمورگاگني(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+ديسک بين مهره اي (سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+مفصل . لوزبادي (سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+نوروما-مورتون/تروماتيک(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+سينوس/کيست پايلونيدال(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+پوليپ .التهابي -بيني /سينوس(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+بافت نرم .دبريدمان(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+اسپرماتوسل(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+تاندون/تاندون شيت (غلاف(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+زائده بيضه(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+ترومبوس يا آمبولي(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+لوزه و/ياآدنوئيد(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+واريکوسل(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+وازدفران.بجزعقيمي (سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+وريد.وارکوزيتي (سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+سقط--خودبخود/فراموش شده(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+شريان .بيوپسي(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+اگزوستوزاستخوان(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+انتهاها.آمپوتاسيون.ترماتيک(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+ليوميوم.ميومکتومي رحمي -بدون رحم(سطح 3),,,"Working Days: Everyday
+Days to Report: ",patho
+کليه .بيوپسي (سطح5),,,"Working Days: Everyday
+Days to Report: ",patho
+لنف نود.بيوپسي (سطح5),,,"Working Days: Everyday
+Days to Report: ",patho
+عضله . بيوپسي (سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+عصب. بيوپسي تشخيص مديکال(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+پوست(سطح5),,,"Working Days: Everyday
+Days to Report: ",patho
+استخوان .بيوپسي ياکورتاژ(سطح5),,,"Working Days: Everyday
+Days to Report: ",patho
+مغز.بيوپسي(سطح5),,,"Working Days: Everyday
+Days to Report: ",patho
+مغز/مننژ.رزکسيون تومور(سطح5),,,"Working Days: Everyday
+Days to Report: ",patho
+پستان .ماستکتومي -پارشيال/ساده(سطح5),,,"Working Days: Everyday
+Days to Report: ",patho
+سرويکس .کونيزاسيون( برداشتن مخاطي(سطح5),,,"Working Days: Everyday
+Days to Report: ",patho
+انتهاها.آمپوتاسيون .غيرتروماتيک(سطح5),,,"Working Days: Everyday
+Days to Report: ",patho
+کبد.بيوپسي -سوزني /گوه اي (وج(سطح5),,,"Working Days: Everyday
+Days to Report: ",patho
+مدياستن.توده اي (سطح5),,,"Working Days: Everyday
+Days to Report: ",patho
+Pathology 5,,,"Working Days: Everyday
+Days to Report: ",patho
+آدرنال.رزکسيون(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+رحم .يابدون لوله هاوتخمدانها(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+کليه .نفرکتومي توتال /پارشيال(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+حنجره .پارشيال/توتال رزکسيون(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+کبد.رزکسيون پارشيال(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+لنف نود.رزکسيونرژيونال(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+معده .ساب توتال/توتال رزکسيون بجزبراي تومور(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+رزکسيون اسنخوان(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+پستان .ماستکتومي.به همراه عقده هاي لنفاوي ناحيه(سط,,,"Working Days: Everyday
+Days to Report: ",patho
+کولون.رزکسيون.سگمنتال به علت تومور(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+کولون.رزکسيون(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+مري .رزکسيون پارشيال/توتال(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+اندامها.ديس آرتيکولاسيون(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+جنين .باديسکسيون(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+حلق.رزکسيون پارشيال/توتال به همراه عقده هاي لنفاوي,,,"Working Days: Everyday
+Days to Report: ",patho
+ريه .رزکسيون توتال /لوب/سگمنت(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+پانکراس.رزکسيون توتال/ساب توتال(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+پروستات.رزکسيون راديکال(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+روده باريک .رزکسيون يه علت تومور(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+تومور بافت نرم .رزکسيون به علت تومور (سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+معده .رزکسيون ساب توتال به علت تومور(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+بيضه.تومور (سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+زبان /لوزه-رزکسيون به علت تومور (سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+مثانه .رزکسيون پارشيال/توتال(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+رحم .همراه يابدون لوله وتخمدانها.نئوپلاستيک(سطح6),,,"Working Days: Everyday
+Days to Report: ",patho
+Sputum Cytology,,,"Working Days: Everyday
+Days to Report: ",patho
+Sputum Cytologyx2,,,"Working Days: Everyday
+Days to Report: ",patho
+Sputum Cytologyx3,,,"Working Days: Everyday
+Days to Report: ",patho
+Urine Cytology x4,,,"Working Days: Everyday
+Days to Report: ",patho
+Urine Cytology x5,,,"Working Days: Everyday
+Days to Report: ",patho
+"رنگ آميزي اختصاصي ، گروه يك",,,"Working Days: Everyday
+Days to Report: ",patho
+"رنگ آميزي اختصاصي ، گروه دو",,,"Working Days: Everyday
+Days to Report: ",patho
+CISH,,,"Working Days: Everyday
+Days to Report: ",patho
+CANCEL (CISH),,,"Working Days: Everyday
+Days to Report: ",patho
+KAZEB(CISH),,,"Working Days: Everyday
+Days to Report: ",patho
+Pap Smear MI,Calcitonin,,"Working Days: Everyday
+Days to Report: ",patho
+واريکوسل(سطح 2),,,"Working Days: Everyday
+Days to Report: ",patho
+"وازدفران،به جز عقيمي(سطح 2)",,,"Working Days: Everyday
+Days to Report: ",patho
+"وريد،واريکوزيتي(سطح 2)",,,"Working Days: Everyday
+Days to Report: ",patho
+FNA CYTOLOGY Breast,,,"Working Days: Everyday
+Days to Report: ",patho
+FNA CYTOLOGY other,,,"Working Days: Everyday
+Days to Report: ",patho
+PD-L1,,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي آنتي بادي-معده پروستات,,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي آنتي بادي-ريه,,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي آنتي بادي-کليه لنفوم,,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي آنتي بادي-رد پيوند,,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي آنتي بادي-معده پروستات,,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي آنتي بادي-ريه,,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي آنتي بادي-کليه لنفوم,,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي آنتي بادي-رد پيوند,,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(ACTH),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(AFP),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(ALK),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(AMA-cr),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Androgen Receptor),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Bcl2),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Bcl6),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Bet Catenin),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Breast2),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CA125),,,"Working Days: Everyday
+Days to Report: ",patho
+Calcitonin,,pg/ml,"Working Days: Everyday
+Days to Report: 
+Less than 11.5",patho
+ايمونوهيستوشيمي(caldesmon),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CAM5.2LMW),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CATA-3),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD138),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD10),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD123),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD15),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD163),,,"Working Days: Everyday
+Days to Report: ",patho
+CD19,,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CA1a),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD20),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD3),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD30),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD43),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD45RO),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD68),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD7),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD34),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD4),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD5),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD56),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD79a),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CDX2),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CEA Polyclonal),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CEA-M),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(C-erb-B2),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Chomogranin A),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CK 5/2),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CK8 & 18),,,"Working Days: Everyday
+Days to Report: ",patho
+CK19,,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CK20),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CK5/6),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CK7),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD117),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Collagen IV),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Cycline D1),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Cytokeratin),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Desmin),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(DOG1),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(EMA),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(ER-Esterogen Receptor),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Factor VIII),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Gamma light Chain),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(GATA3),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(GCDFP-15),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(GFAP),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Hepatocyte),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Hepatocyte),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(HMB-45),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(HMWK(BE12)),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Inhibin),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Kappa light chain),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Ki67),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Lambda),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(leukocyte common antigen LCA),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Mamoglubulin),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(MDM 2),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Melan A),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(MIC2),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(MLH1),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(MS1),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(MSA),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(MSH2),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(MSH6),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Myogenin),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Napsin A),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Naspin A),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(NSE),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(P16),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(P53),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(P63),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Pan CK(AE1/AE3)),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(PAX-5),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(PAX-8),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(PC),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(PDL1),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Placental alkaline phosphatase),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(PMS2),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(PR-Progestrone Receptor),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(PSA),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Racemase),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(S100),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Smooth Muscle Actin SMA),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(TdT),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Thyroglobulin),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(TTF-1),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(Vimentin),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(WT1),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(CD31),,,"Working Days: Everyday
+Days to Report: ",patho
+IHC-SERIAL,,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي(D2-40),,,"Working Days: Everyday
+Days to Report: ",patho
+ايمونوهيستوشيمي آنتي بادي,,,"Working Days: Everyday
+Days to Report: ",patho
+C.B.C,CBC ,,"Working Days: Everyday
+Days to Report: ",hemato
+W.B.C ,WBC,,"Working Days: Sat. Sun. Mon. Thu. Wed. Teu. 
+Days to Report: 4",hemato
+R.B.C,RBC,,"Working Days: Everyday
+Days to Report: ",hemato
+Hb,Hb,,"Working Days: Everyday
+Days to Report: ",hemato
+Hct ,Hct,,"Working Days: Everyday
+Days to Report: ",hemato
+Platelet ,Platelet,10^3/ul,"Working Days: Everyday
+Days to Report: 
+140-450",hemato
+M.C.V ,MCV(3),fl,"Working Days: Everyday
+Days to Report: 
+80.0-100.0",hemato
+M.C.H ,MCH(3),pg,"Working Days: Everyday
+Days to Report: 
+27.0-34.0",hemato
+M.C.H.C ,MCHC(3),g/dl,"Working Days: Everyday
+Days to Report: 
+32.0-36.0",hemato
+RDW-CV,RDW,,"Working Days: Everyday
+Days to Report: 
+11.0-16.0",hemato
+PDW,,,"Working Days: Everyday
+Days to Report: 
+9.0-17.0",hemato
+MPV,,fl,"Working Days: Everyday
+Days to Report: 
+6.5-12.0",hemato
+Band cell,Band,,"Working Days: Everyday
+Days to Report: ",hemato
+P-LCR,,,"Working Days: Everyday
+Days to Report: ",hemato
+Neutrophils,Neut,%,"Working Days: Everyday
+Days to Report: ",hemato
+Monocyte,Mono,%,"Working Days: Everyday
+Days to Report: ",hemato
+Lymphocyte,Lymph,%,"Working Days: Everyday
+Days to Report: 
+20-40",hemato
+Eosinophil ,Eosin,%,"Working Days: Everyday
+Days to Report: ",hemato
+Basophil ,Baso,,"Working Days: Everyday
+Days to Report: ",hemato
+LUC (Atypical Cell),LUC,,"Working Days: Everyday
+Days to Report: ",hemato
+Blood Group ,B.Group,,"Working Days: 
+Days to Report: ",hemato
+Rh Factor ,Rh,,"Working Days: Everyday
+Days to Report: ",hemato
+ESR 1st hr,ESR 1hr,,"Working Days: 
+Days to Report: ",hemato
+ESR 2nd hr ,ESR 2 hr,,"Working Days: 
+Days to Report: ",hemato
+Leishman Body,Lishma,,"Working Days: Everyday
+Days to Report: ",hemato
+Trypanosoma,Tryp,,"Working Days: Everyday
+Days to Report: ",hemato
+L.E. Cell Preparation,LE Cell,,"Working Days: Everyday
+Days to Report: ",hemato
+Osmotic Fragility,c Osmotic,,"Working Days: Everyday
+Days to Report: ",hemato
+Beginning Of Hemolysis.,,,"Working Days: Everyday
+Days to Report: ",hemato
+Complate Of Hemolysis.,,,"Working Days: Everyday
+Days to Report: ",hemato
+Hb Electerophoresis,c Hb EP,,"Working Days: Everyday
+Days to Report: ",hemato
+Hb A1 (EP),HA1,,"Working Days: Everyday
+Days to Report: ",hemato
+Hb F (Singer Test),HbF,,"Working Days: Everyday
+Days to Report: ",hemato
+"S,D,G",SDG,,"Working Days: Everyday
+Days to Report: ",hemato
+Hb A2 (EP),HA2,,"Working Days: Everyday
+Days to Report: ",hemato
+Hb.Hprep.,c Hb H,,"Working Days: Everyday
+Days to Report: ",hemato
+Malaria,c malaria,,"Working Days: Everyday
+Days to Report: ",hemato
+Cryfibrinogen,P Cit Cryfibr,,"Working Days: Everyday
+Days to Report: ",hemato
+Cryoglobolin,s Cryoglobolin,,"Working Days: Everyday
+Days to Report: ",hemato
+Cold Agglutination Test,s cold Aggl,,"Working Days: Everyday
+Days to Report: ",hemato
+Blood Smear*,Blood SE,,"Working Days: Everyday
+Days to Report: ",hemato
+NBT,c NBT,,"Working Days: Everyday
+Days to Report: ",hemato
+Reticulocyte,c Retic,,"Working Days: Everyday
+Days to Report: ",hemato
+Blood Smear,Blood-S,,"Working Days: Everyday
+Days to Report: ",hemato
+Selenium,s Selenium,,"Working Days: Everyday
+Days to Report: ",hemato
+Sickel,c Sickel,,"Working Days: Everyday
+Days to Report: ",hemato
+PT Control,PT.C,,"Working Days: Everyday
+Days to Report: ",hemato
+INR,INR,,"Working Days: Everyday
+Days to Report: ",hemato
+Platelet,Platelet,,"Working Days: Everyday
+Days to Report: ",hemato
+CSF Routine ,*-CSF-Rout,,"Working Days: Everyday
+Days to Report: ",hemato
+Specimen ,Specimen,,"Working Days: Everyday
+Days to Report: ",hemato
+Color ,Color,,"Working Days: Everyday
+Days to Report: ",hemato
+Appearance ,App.,,"Working Days: Everyday
+Days to Report: ",hemato
+Total Cell ,Total Cell,,"Working Days: Everyday
+Days to Report: ",hemato
+W.B.C,W.B.C,,"Working Days: Everyday
+Days to Report: ",hemato
+Neutrophils ,Neutro.,,"Working Days: Everyday
+Days to Report: ",hemato
+Lymphocytes ,Lymph.,,"Working Days: Everyday
+Days to Report: ",hemato
+R.B.C ,R.B.C,,"Working Days: Everyday
+Days to Report: ",hemato
+Peritoneal Fluid Routine,*-Peritone,,"Working Days: Everyday
+Days to Report: ",hemato
+ Total Cell ,Tptal Cell,,"Working Days: Everyday
+Days to Report: ",hemato
+R.B.C...,R.B.C.,,"Working Days: Everyday
+Days to Report: ",hemato
+Synovial Fluid Routine ,*-Synovial,,"Working Days: Everyday
+Days to Report: ",hemato
+Ascitic- Routine ,*-ASC-Rout,,"Working Days: Everyday
+Days to Report: ",hemato
+Specimen ,Specimen,,"Working Days: Everyday
+Days to Report: ",hemato
+Color,Color,,"Working Days: Everyday
+Days to Report: ",hemato
+Appearance,App.,,"Working Days: Everyday
+Days to Report: ",hemato
+Total Cell ,Total Cell,,"Working Days: Everyday
+Days to Report: ",hemato
+W.B.C.,W.B.C.,,"Working Days: Everyday
+Days to Report: ",hemato
+Pleural Fluid Routine,Pleural,,"Working Days: Everyday
+Days to Report: ",hemato
+Neutruphils ,Neutro.,,"Working Days: Everyday
+Days to Report: ",hemato
+Lymphosyte ,Lymph.,,"Working Days: Everyday
+Days to Report: ",hemato
+R.B.C. ,R.B.C.,,"Working Days: Everyday
+Days to Report: ",hemato
+IL-6,il-6,pg/ml,"Working Days: Everyday
+Days to Report: 
+0-7",hemato
+P-ANCA,P-ANCA,AU/ml,"Working Days: Everyday
+Days to Report: 
+Negative:<12
+Borderline:12-18
+Positive:>18",hemato
+C-ANCA,C-ANCA,AU/ml,"Working Days: Everyday
+Days to Report: 
+Negative: <12
+Borderline: 12-18
+Positive: >18",hemato
+galactommanan,,Index,"Working Days: Everyday
+Days to Report: 
+Up to 0.5",hemato
+Anti Acetylcholin Receptor,,,"Working Days: Everyday
+Days to Report: ",hemato
+Thyroxin(Total T4),T4 ,ug/dl,"Working Days: 
+Days to Report: 
+4.89-14.1",hormon
+T3,T3,nmol/l,"Working Days: 
+Days to Report: 10
+1.2-3",hormon
+T.S.H ,TSH,mlu/L,"Working Days: 
+Days to Report: 
+0.3 2-5.2",hormon
+T3-Uptake,T3 Up,,"Working Days: 
+Days to Report: ",hormon
+Free Thyroxine Index (FTI),F.T.I,,"Working Days: Everyday
+Days to Report: ",hormon
+Free T3 ,FT3,pg/ml,"Working Days: Everyday
+Days to Report: 
+Infants (1-23 month)     3.6 - 7.5
+Child (2- 12y)    3.7 - 6.6
+Adolescent  (13-20y)  3.1-5.9
+Adult                  1.8-4.2",hormon
+Free T4 ,FT4 ,ng/dl,"Working Days: 
+Days to Report: 
+0.9-1.7",hormon
+FSH ,FSH,,"Working Days: 
+Days to Report: ",hormon
+LH ,LH ,,"Working Days: 
+Days to Report: ",hormon
+Prolactin ,Prolac,,"Working Days: 
+Days to Report: ",hormon
+"Macro Prolactin,PEG.recovery",M.Prolac,,"Working Days: Everyday
+Days to Report: ",hormon
+Prolactin Post PEG,Prolac EPG,,"Working Days: Everyday
+Days to Report: ",hormon
+Progesterone ,Progestro,,"Working Days: Everyday
+Days to Report: ",hormon
+Testosterone ,Testost,,"Working Days: 
+Days to Report: ",hormon
+Free Testosterone ,FreeTest,,"Working Days: 
+Days to Report: ",hormon
+17-OH Progesterone,17OH-Proges,ng/mL,"Working Days: 
+Days to Report: 
+Prepubertal child(1-10 years)= 0.2 - 0.8
+Adult Man= 0.2 - 3.1
+Follicular Phase(Woman)= 0.4 - 1.51
+Luteal Phase(Woman)= 1 - 4.51
+Postmenopausal Woman= 0.2 - 0.9",hormon
+Beta HCG ,BHCG ,,"Working Days: 
+Days to Report: ",hormon
+Beta HCG,Beta,,"Working Days: Everyday
+Days to Report: ",hormon
+Beta HCG Titer,s-BHCG Tit,,"Working Days: 
+Days to Report: ",hormon
+VIT.D3,VIT.D3,ng/ml,"Working Days: 
+Days to Report: 
+Deficient:<10
+Insufficient: 10-30
+Sufficient:30-60
+overdose,non toxic:60-80
+toxic:>80",hormon
+Microglobulin-Beta-2,B2mi,mg/dl,"Working Days: 
+Days to Report: 
+less then 1.9",hormon
+pro calcitonin,pro calci,ng/ml,"Working Days: Everyday
+Days to Report: 
+0-0.046",hormon
+Cortisol,Cor,micg/dl,"Working Days: 
+Days to Report: 
+3.7-19.4",hormon
+calcitonin,calcitonin.,pg/ml,"Working Days: Everyday
+Days to Report: 
+less than 18.2",hormon
+IGF-1,IGF-1,ng/ml,"Working Days: 
+Days to Report: 
+79 - 506",hormon
+DHEA-S,DHEA-S,µg/dL,"Working Days: 
+Days to Report: 
+18.9-205",hormon
+PTH,PTH,"pg/ml	","Working Days: 
+Days to Report: 10
+15-65",hormon
+GH,GH,ng/ml,"Working Days: Everyday
+Days to Report: 
+0-7.79",hormon
+Erythropoitin,EPO,,"Working Days: Everyday
+Days to Report: ",hormon
+Adrenocorticotropic Hormone,ACTH,,"Working Days: Everyday
+Days to Report: ",hormon
+Aldosterone,aldo,ng/dl,"Working Days: Everyday
+Days to Report: 
+2.52-39.2",hormon
+Roma index ,roma,,"Working Days: Everyday
+Days to Report: 
+Premenopausal:>=11.3High riskof EOC <11.3Low risk of EOC",hormon
+DHT,DHT,,"Working Days: Everyday
+Days to Report: ",hormon
+CEA,CEA,ng/ml,"Working Days: Sat. Sun. Mon. Thu. Wed. Teu. 
+Days to Report: 4
+Non Smoker <5",hormon
+CA 19- 9,CA 19 9,U/ml,"Working Days: Everyday
+Days to Report: 3
+Healty people and non-pregnant :=<40",hormon
+CA 15-3 ,CA 15 3,U/ml,"Working Days: Everyday
+Days to Report: 
+0-32",hormon
+CA-125 ,CA-125,U/ml,"Working Days: Everyday
+Days to Report: 
+UP to 35.0",hormon
+AFP,AFP,ng/ml,"Working Days: Everyday
+Days to Report: 
+Non pregnant women < 8.5
+Men <8.5",hormon
+CA 27-29,CA 27-29,,"Working Days: Everyday
+Days to Report: ",hormon
+Prostatic Specific Ag,PSA,ng/ml,"Working Days: Everyday
+Days to Report: 
+0.21-2.19",hormon
+Free PSA,s Free.PSA,ng/ml,"Working Days: Everyday
+Days to Report: 
+=<1.3",hormon
+Free PSA / Total PSA,,,"Working Days: Everyday
+Days to Report: ",hormon
+AFP MOM,,,"Working Days: Everyday
+Days to Report: ",hormon
+Hi Risk,,,"Working Days: Everyday
+Days to Report: ",hormon
+HE4 ,s HE4,Pmol/L,"Working Days: Everyday
+Days to Report: 
+Premenopausal: up to 70
+Postmenopausal: up to 140
+Men: Not determinded",hormon
+Roma Index,s Roma,,"Working Days: Everyday
+Days to Report: ",hormon
+Double Marker,Dabele Marker,,"Working Days: Everyday
+Days to Report: ",hormon
+Tripel Marcer,Tripel Marker,,"Working Days: Everyday
+Days to Report: ",hormon
+Quad Marcer,Coad Marker,,"Working Days: Everyday
+Days to Report: ",hormon
+Free Beta,Free Beta,,"Working Days: Everyday
+Days to Report: ",hormon
+PAPP-A,PAPP-A,,"Working Days: Everyday
+Days to Report: ",hormon
+U E3,UE3,,"Working Days: Everyday
+Days to Report: ",hormon
+Inhibin . A,s-Inhibin,pg/ml,"Working Days: Everyday
+Days to Report: 
+F(Fol phase): 5.3-115
+F(Mid cycle): 90-151
+F(Lut phase): 5.9-213
+Postmenopausal: up to 5.24",hormon
+A.F.P,A.F.P,,"Working Days: Everyday
+Days to Report: ",hormon
+Beta HCG .Titer,Beta Titer,,"Working Days: Everyday
+Days to Report: ",hormon
+Free Beta HCG,Free Beta,,"Working Days: Everyday
+Days to Report: ",hormon
+feee cortisol 24,Free cortisol24,micg/24hrs,"Working Days: Everyday
+Days to Report: 
+1.5 - 63",hormon
+Sars covid 19 (IgG),Coid IgG,,"Working Days: Everyday
+Days to Report: ",hormon
+Sars covid 19 (IgM),Coid IgM,,"Working Days: Everyday
+Days to Report: ",hormon
+Food Allergens Test,Food Aler,,"Working Days: Everyday
+Days to Report: ",hormon
+Anti Histon,s Histon,,"Working Days: Everyday
+Days to Report: ",hormon
+Covid-19 Neutralization,Covid Neut,,"Working Days: Everyday
+Days to Report: ",hormon
+Leptin,s Leptin,,"Working Days: Everyday
+Days to Report: ",hormon
+Panel Reactive Ab (Fellow),s Panel,,"Working Days: Everyday
+Days to Report: ",hormon
+Interleukin-6,s IL6,pg/ml,"Working Days: Everyday
+Days to Report: 
+0-7",hormon
+HLA B5,c HLA B5,,"Working Days: Everyday
+Days to Report: ",hormon
+HLA B27,c HLA B27,,"Working Days: Everyday
+Days to Report: ",hormon
+HLA B51,c HLA B51,,"Working Days: Everyday
+Days to Report: ",hormon
+HLA B52,c HLA B52,,"Working Days: Everyday
+Days to Report: ",hormon
+HLA B8,c HLA B8,,"Working Days: Everyday
+Days to Report: ",hormon
+IGG4,s IGG4,,"Working Days: Everyday
+Days to Report: ",hormon
+B2-Glycoprotein (IgA),B2IGA,,"Working Days: 
+Days to Report: ",hormon
+IL-6,il-6,pg/ml,"Working Days: Everyday
+Days to Report: 
+0-7",hormon
+P-ANCA,P-ANCA,AU/ml,"Working Days: Everyday
+Days to Report: 
+Negative:<12
+Borderline:12-18
+Positive:>18",hormon
+C-ANCA,C-ANCA,AU/ml,"Working Days: Everyday
+Days to Report: 
+Negative: <12
+Borderline: 12-18
+Positive: >18",hormon
+galactommanan,,Index,"Working Days: Everyday
+Days to Report: 
+Up to 0.5",hormon
+Anti Acetylcholin Receptor,,,"Working Days: Everyday
+Days to Report: ",hormon
+"بررسي تکرارهاي ژنومي-STR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي تکرارهاي ژنومي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين نوع DNA  
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين جهش با روش pCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Factor V  leiden (PCR) 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"G20210 ( Factor II) PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"PAI- 1  (PCR)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Factor XIII  (PCR)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Qualitative RT-PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"انجام PCR براي ژنتيک پزشکي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"کيفي براي ساير عوامل PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Turation Electrophores  
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Mutation Detection- Gradient Dena Gel  
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي يک آمپليکن
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"HCV-RT-PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"bcr-abl RT-PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"HIV-RT-PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Measles RNA PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Rubella RT-PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RSV RNA (RT-PCR)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"HDV/RT/PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Mumps RNA (RT PCR)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"P.R.G.A  DNA PCR (RFLP)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"bcr-abl RT PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Minimal Residal Disease
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"t(12:21):ETV6(TEL) RNA
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"t(1:19)E2A(TCF3)-PBX1 RNA
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"t(4:11)MLL-AF4 RNA
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"FLP1L1-PDGFRA RNA
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"FLT3 DNA PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR RNA
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+استفاده ازPcR کمي براي تعيين بار ساير عوامل بيماري,,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCRکمي 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"EBV PCR-Q
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"CMV-PCR-Q
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Minimal Residul DiseaseQ
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"HCV Genotyping PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"HBV PCR (Quantitative)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"HCV RNA(Quantitative)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"HIV Quantitative
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"bcr-abl Quantitative RT PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"HBV Genotyping PCR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"HDV RNA PCR Q
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"PCR Interpertation 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"PCR Interpretaion
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCRکمي براي ژنتيک پزشکي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"pCRکيفي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR کيفي براي ساير عوامل بيماري زا
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"HlAA BDR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"HLA ABC
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين پرايمر براي DQBi.DQAL.hLA
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين پرايمر برايDrb3.DRB2.DRB1.HLA
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تطبيق نمونه ها از طريق Y-str
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"paternity -ind- پدر-فرزندي خويشاوندي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"paternity-ind-جد مادري
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي خويشاوندي برادري-جد پدري
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تطبيق نمونه ها از طريق DNA-ind
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تطبيق نمونه ها از طريق جد پدر- برادري-ind
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون-IND
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون3
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون4
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون5
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون6
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون7
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون8
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون9
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون10
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون11
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون12
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون13
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون14
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون15
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون16
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون17
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون 18
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون19
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون20
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي اگزون21
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"غربالگري دابل مارکر
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تريپل مارکر 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Beta thal PND 2
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Alpha thal PND2
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"SMA-PND
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"PND2-Sickle Cell mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"SICKLE-PND
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"PND2-Cystic Fibrosis- mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"PND2-Fragile X-Mol
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"gaucher
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"PND2-Gaucher mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"CF-PND
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"نقص انعقادي هموفيلي A/B..مرحله دوم تعيين جنسيت
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"هموفيلي A/Bتعيين وضعيت نهايي جنين
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"حذف ژني مرحله اول
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"PND2-Duchenne-mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"حذف ژني مرحله سوم تعيين  نهايي وضعيت جنين
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Factor XIII mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Factor-V (Leiden)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Factor 5
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"PTT-Pro-Thrombi (Factor II)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Factor2
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تغيير تک بازي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي تک بازي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي يک تغيير تک بازي نقش دارويي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي يک تغيير تک يازي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي موتاسيون داروئي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"نقص Alfa Tripsin
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+" 1تريپسين نقص الفا-1موتاسيون
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"PAI gene- mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"واريانت تک نوکلئوتيدي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي واريانت تک نوکلئوتيدي ARMS
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي يک واريانت تک نوکلئوتيدي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"BRAF/1mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Clotting Panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"MTH-FR gene- Mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"FMF-
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Haemachromatosis- HEF- mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"موتاسيون هاي شايع همو کرو ما تو
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي موتاسيون هاي شايع همو کروماتو
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"AZFبررسي حذف نواحي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"AZF
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"SRY/Sex Determination
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"FLT-3-AML mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"JAK2-Leukemia v617F mutation   
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"cKIT
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"K-ras- Lung & Gastrointestinal Cancer
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"KRAS mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NRAS
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي موتاسيون ها ي ALK
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"EGFR gene- Cancer mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي موتاسيون به روش کمي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR translocation (1,19) AML
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR translocation (9,22) Quantitative II leukem",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR inv(16)- leukemia
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR translocation (1,19)-leukemia 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR translocation (12,21)-leukemia 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR translocation (15,17)-leukemia 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR translocation (4,11)-leukemia 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR translocation (8,21)-leukemia 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR translocation (9,22)-leukemia 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR translocation (TAL1D)-leukemia 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR ترنس لوکميا
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR ترنس لوسمي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RT-PCR translocation leukemia
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Sickle Cell Family mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"سيکل سل مرحله اول پدر فرزند
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"سيکل سل مرحله اول مادر فرزند
+",,,"Working Days: 
+Days to Report: ",genetic
+"Achondroplasia
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Mutation Confirmation- rare mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"mutation confermation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"1-Mutation -Family
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Ataxi Feredrich
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي  تکرارهاي 3 نوکلئوئيدي آتاکسي فردريش
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي  تکرارهاي 3 نوکلئوتيدي در ديستروني ميوتوني
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"ديستروفي ميوتونيک
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"هانتينکتون
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Fragile X-Mol-Ind
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"SCA
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+بررسي موتاسيون کمپلکس مواردي که حذف يا واژگوني دار,,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي inversion 22)(هموفيليَ
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+بتا تالاسمي (فقط بررسي جهش هاي )پدر به همراه فرزند,,,"Working Days: Everyday
+Days to Report: ",genetic
+بتا تالاسمي (فقط بررسي جهش شاي)مادر به همراه فرزند,,,"Working Days: Everyday
+Days to Report: ",genetic
+"پي کي يو(فقط بررسي جهش هاي شايع)پدر به فرزند
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"پي کي يو (فقط بررسي جهش هاي شايع)مادر به فرزند
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+آلفا تالاسمي (فقط بررسي حذف هاي شايع)پدر به فرزند,,,"Working Days: Everyday
+Days to Report: ",genetic
+آلفا تالاسمي (فقط بررسي حذف هاي شاي) مادر به فرزند,,,"Working Days: Everyday
+Days to Report: ",genetic
+"Cystic Fibrosis- mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Cystic fibrosis CFTR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"CF فقط بررسي جهش هاي شايع پدر وفرزند
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"CF فقط بررسي جهش هاي شايع پدر وفرزند
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"CF فقط بررسي جهش هاي شايع مادر به فرزند
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي 2تا10 موتاسيون شايع در يک بيماري
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Connexin- Ind deafnessپدر فرزند
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NPM-1 gene mutation- Aml
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Connexin26مادرفرزندي 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي يک اگزون
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Beta Thalassemia
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"مرحله اول تالاسمي بتا پدر -فرزند
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"مرحله اول تالاسمي بتا مادر فرزند
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Alpha Thalassemia
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي مرحله اول تالاسمي آلفا پدر به فرزند
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي مرحله اول تالاسمي آلفا مادر به فرزند
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"اتروفي عضلاني اسپينال/ SMA-Ind
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"مرحله اول SMAبراي پدر به همراه فرزند
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"مرحله اول SMAبراي مادر به فرزند
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي دوپليکاسيونPMP22درشارکوت توث
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"موتاسيون ژن v-HL(در بيماري von Hippel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي 2-5 اگزون
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Duchenne-Ind
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Duchenne- Family
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي حذف هاي ژن DmD دربيماران دوشن وبکر
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"CAH- mutation
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي تمام اگزونها در بيماري هموفيلي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي بيماري شوگرن لارسن ژنALDH3A2
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"کاناوان ژن ASPA
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"سندروم SLOS - ژن DHCR7
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"سندروم ولفرام ژن WFS1
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"فاکتور7-ژن F7
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"نقص فاکتور 10 انعقادي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"سندرم برنارد بررسي ژن هاي GPIBA
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"سندرم برنارد بررسي ژن هاي GPIPB
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"سندروم برنارد در ژن هاي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"6-10 اگزون
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بدونCGHA QF
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بدونCGHA QF1
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي ژن APCدرپوليپوزيس ارثي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"ادنوزين د اميناز ژن ADA
+",,IU/L,"Working Days: Everyday
+Days to Report: 
+Csf: up to 9.0
+Pleural: up to 30
+Other fluids: up to 30",genetic
+"ژن کامل فاکتور 2
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"ژن کامل در فاکتور 5
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"ژن کامل در فاکتور 11
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي ژن BLMدر سندروم بلوم
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"ژن CDH1-Gastric cancer
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"سندروم  Li-Fraumeni در ژن TP53
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي ژن wAS در سندروم ويسکوت الدريج
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"11-25 اگزون
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Sequencing Cystic Fibrosis
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي بيماري CFبا روش تعيين توالي کل ژن 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي هموفيلي Aبا روش تعيين توالي کل ژن
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"RB1-رتينو بلاستوما
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بر رسي ژن RBI
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي ژن CLCN7 در بيماري اسئوپتروز
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"26-50 اگزون
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"ساير اگزون26-50
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"BRCA panel (MLPA-BRCA I,II)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"ژنهاي BRCa1-BRCA2 در سرطان پستان
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"تعيين توالي بيش از 50 اگزون
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي 1تا20 ژن توسط NGS
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي 21تا50 ژن توسط NGS
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Premature Ovarian Failure (18 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي 51تا 200ژن توسط NGS
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Deafness panel all known gene
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Neuromuscular panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Metabolic disease panel (being complete)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS- Hearing Loss 117 gene
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Metabolic Disease
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Muscular Dystrophy
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Bardet-Biedlsyndrome(20Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Corpus Callosum Agenesis (107Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-CMT& Sensory Neuropathies(83 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Exome
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Hearing Loss(90 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-MR(syndromic & non- syndromicID)(579Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Muscular Dystrophy(48 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-SMA(22Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Congenital & Distal Myopathies(66Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS- Metabolic Myopathies (39 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Myotonia(11 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Hereditary spastic paraplegia(61 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Dystonia(40 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Ataxia(50 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Microcephaly,PontocerebellarHypoplasia,Cortica",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Neuronal Migrathon Disorders (46 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+NGS-Congenital Disorders of Glycosylation (33Genes,,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Lysosomal Disorders (27 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Peroxisomal Disorders (16 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Coenzyme Q Deficiency
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Glutaric Aciduria(4 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Glycine Encephalopathy(3 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Hyerphenylalaninemia(4 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Joubert Syndrome (23 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Episodic Ataxia(8 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Pediatric Epilepsies(29 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Syndromic ID (214 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Ichthyosis(18 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Disorders of Sex Development(46 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-X-Linked MR (X-linked ID) (106 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Neurofibromatosis(11 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Osteogenesis imperfecta (18Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Epidermolysis bullosa (18 Genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Panel Breast Cancer(4 genes)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+" NGS-Syndrome Marfan
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-MMAC
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Tyrosinemia type I
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS- Noonan
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Exome Sequencing Rasearch
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Cornelia delange
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS- Niemann Pick
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS- seckel syndrome
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS- Osteopetrosis
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Ichthyosis panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-lissencephaly panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Diabetes neonatal panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Lysosomal storge disease panel 13 GEN
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Glycosylation disorder panel-NGS
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Diamond blackfan anemia
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-MODY panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Glycogen storge diease panel advanced
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Mucopolysaccharidosis panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Urea cycle disorder panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Zellweger syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Aicardi-Goutieres syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+" NGS-Alzheimer dementia and dementia panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Amyotrophic lateral sclerosis ALS panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Bethlem myopathy panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Cerebellar ataxia panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Ceroid lipofucinosis panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+NGS-CMT neuropathy axonal autosomal dominant panel,,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-CMT neuropathy  demyelinating panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Congenital myasthentic syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Congenital myopathy panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Dejerine-Sottas syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Dementia panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Dravet syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Dystonia panel(9 Gen)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+NGS-early infantile epileptic encephalopathy panel,,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Epilpsy absence in childhood panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Epilepsy partial hereditary panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Epileptic encephalopathy panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Episodic ataxia panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Familial hemiplegic migraine panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Frontotemporal dementia panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-hereditary hyperekplexia panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGSLimb-girdle muscular dystrophy panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Malignant hyperthermia panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Mental retardation, X linked panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Metabolic myopathies panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Tuberous sclerosis panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Microcephaly panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Mitochondrial dysfunctions panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Myofibrillar myopathy panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Myopathy-rhabdomyolysis syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Nemaline myopathy panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Parkinsons disease panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Pontocerebellar hypoplasia panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-SCA panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Spastic paraolegia panel autosomal dominant
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NG-Spastic paraolegia panel autosomal recessive
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Ullrich muscular dystrophy panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Walker-Warburg syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Albinism panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Cataract panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Cone-rod and cone dystrophy panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Flecked retina panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Hermansky-Pudlak syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Vitreoretinopathy and Wagner syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Leber optic atrophy panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Microphthalmia panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Oculomotor apraxia panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Optic atrophy panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Leber congenital amaurosis panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+NGS-Retinitis pigmentosa panel autosomal dominant,,,"Working Days: Everyday
+Days to Report: ",genetic
+NGS-Retinitis pigmentosa panel autosomal recessive,,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Stargardt diease panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Stickler syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Alport syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Ciliary dyskinesia panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Bartter syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Cornelia de Lange syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Ehlers-Danlos syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Epidermolysis bullosa panel 4gen
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Epilepsy with febrile seizures panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Osteogenesis imperfecta panel 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Osteogenesis  panel 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Aortic aneurysm hereditary thoracic panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Arthrogryposis panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Long QT syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Cardiomyopathy dilated panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Cardiomyopathy hypertrophic panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Marfan syndrome and related disorder panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Brugada syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Arrhthmia herditary panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Polycystic kidney panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Bardet Biedl panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Focal Glomerulonephrosis panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Kallmann syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Maple syrup urine disease panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Nephronphthisis panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Pancreatitis panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Atypical hemolytic uremic syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Infertility panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Colon cacer and polyposis syndrome 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-megaloblastic anemia panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Pheochromocytoma panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Spherocytosis panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Thrombocytopenia panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Breast ovarian cancer panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Seckel syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Central hypoventilation syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Coffin-Siris syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Hirschsprung disease panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Noonan-CFC syndrome panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Imatinib resistance mutation analysis
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-Myeloprolifrative Leukemia
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"exome-BGI
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+" whole exome 
+",WES,,"Working Days: Everyday
+Days to Report: ",genetic
+"exome clinical
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS -anemi fanconi
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-mitochondria panel
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"   بررسي بيش از 200ژن NGS
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Hearing Loss
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"NGS-MR
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"ngsبررسي بيش از200ژن نفردوم
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي بيش از200ژن نفرسومngs
+]",,,"Working Days: Everyday
+Days to Report: ",genetic
+کارآموز ,,,"Working Days: 
+Days to Report: ",genetic
+مشاوره ژنتيک,,,"Working Days: Everyday
+Days to Report: ",genetic
+"کاريوتايپ خون با حد تفکيک 400الي450
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"کاريوتايپ خون با حد تفکيک بالا
+",kar,,"Working Days: Everyday
+Days to Report: ",genetic
+"کاريوتايپ فيبرو بلاست پوستي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"کاريوتايپ خون بندناف
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Amniotic fluid-Cytogenetics
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"کاريوتايپ -AF
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"امينوسنتز
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"CVS-Cytogenetic
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"کاريوتايپ پرجفتي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"کاريوتايپ بافت هاي solld
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Fanconi Anemia-karyotype
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"Fragile x-Cytogenetic
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي شكستگي كروموزوم– FragX (چهار كشت)
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+شكنندگي كروموزومها (فانكوني- سندروم بلوم…) (چهاركش,,,"Working Days: Everyday
+Days to Report: ",genetic
+"کاريوتايپ به منظور بررسي سندرم هاي شکست کورموزمي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"کاريوتايپ بررسي موزاييسم
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"روش هاي نواربندي G,C,NoR band ,q
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي Fish interphase
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"FISH-N-Myc
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"FISH-di George 22q11.2
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"FISH-Microdeletion
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"FISH-Subtelomer pter
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"FISH-Williams
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"FISH-Wolf-Hirsc
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"FISH-X,Y
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"FISH-Praderwill
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"FISH براي هر probe  
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"QF-PCR-Aneupoleide              
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"MLPA-Microdeletion- physical mental disorder
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"cell Free DNA
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"کاريوتايپ اضافي براي هر مطالعه
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"pgdتعيين جنسيت تاسقف4جنين
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"pgdتعيين جنسيت هرجنين اضافه
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"pgdبراي بررسي ترانسلوکاسسيون
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"pgdبراي بيماريهاي مولکولي مرحله اول
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"pgdبراي بيماري هاي مولکولي تا5جنين
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"pgd مرحله دوم براي بيماري هاي مولکولي
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"pgsباروشngs
+",,,"Working Days: Everyday
+Days to Report: ",genetic
+"بررسي CNVبا روشNGS 
+",,,"Working Days: Everyday
+Days to Report: ",genetic
